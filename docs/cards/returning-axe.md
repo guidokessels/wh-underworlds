@@ -4,7 +4,7 @@
 
 ![Returning Axe](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/144_ENG.png)
 
-[Weapon][Hex] 3 [Sword] 2 [Damage] 1[/Weapon] On a critical hit this Attack action has +1 Damage
+<div class="whu-weapon">[Hex] 3 [Sword] 2 [Damage] 1</div><br /> On a critical hit this Attack action has +1 Damage
 
 Type: Upgrade
 

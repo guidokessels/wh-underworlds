@@ -4,7 +4,7 @@
 
 ![Deadly Spin](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/022_ENG-Deadly-Spin.png)
 
-[Weapon][Hex] 1 [Sword] 3 [Damage] 1[/Weapon] Targets adjacent enemy fighters - roll for each
+<div class="whu-weapon">[Hex] 1 [Sword] 3 [Damage] 1</div><br /> Targets adjacent enemy fighters - roll for each
 
 Type: Upgrade
 

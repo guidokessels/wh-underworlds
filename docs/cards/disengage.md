@@ -4,7 +4,7 @@
 
 ![Disengage](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/385_ENG-Disengage.png)
 
-[Weapon][Hex] 1 [Hammer] 2 [Damage] 1[/Weapon] <b>Reaction:</b> After this Attack action, if it is successful, you can push this fighter one hex
+<div class="whu-weapon">[Hex] 1 [Hammer] 2 [Damage] 1</div><br /> <b>Reaction:</b> After this Attack action, if it is successful, you can push this fighter one hex
 
 Type: Upgrade
 

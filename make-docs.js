@@ -42,12 +42,17 @@ const createCardLink = card => `[${card.name}](${URL}/cards/${makeLink(card.name
 const createLocationLink = location => `[${location}](${URL}${'/locations/' + makeLink(location)})`;
 const createFactionLink = faction => `[${faction}](${URL}${'/factions/' + makeLink(faction)})`;
 
+const createCardText = (str) => {
+  const weaponRegexp = /\[Weapon\](.*)\[\/Weapon\]/g;
+  return str.replace(weaponRegexp, `<div class="whu-weapon">$1</div><br />`);
+}
+
 const createCard = item => ({
   item,
   md: `
 ![${item.name}](${item.image})
 
-${item.text || ''}
+${createCardText(item.text || '')}
 
 Type: ${item.type}
 

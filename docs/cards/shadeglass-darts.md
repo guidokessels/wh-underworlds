@@ -4,7 +4,7 @@
 
 ![Shadeglass Darts](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/411_ENG-Shadeglass-Darts.png)
 
-[Weapon][Hex] 3 [Sword] 3 [Damage] 1[/Weapon] On a critical hit, this Attack action has +1 Damage
+<div class="whu-weapon">[Hex] 3 [Sword] 3 [Damage] 1</div><br /> On a critical hit, this Attack action has +1 Damage
 
 Type: Upgrade
 

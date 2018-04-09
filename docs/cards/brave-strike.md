@@ -4,7 +4,7 @@
 
 ![Brave Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/051_ENG-Brave-Strike.png)
 
-[Weapon][Hex] 1 [Hammer] 2 [Damage] 2[/Weapon] Roll an extra attack dice if there are no adjacent friendly fighters
+<div class="whu-weapon">[Hex] 1 [Hammer] 2 [Damage] 2</div><br /> Roll an extra attack dice if there are no adjacent friendly fighters
 
 Type: Upgrade
 

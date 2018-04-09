@@ -4,7 +4,7 @@
 
 ![Throwing Stars](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/173_ENG.png)
 
-[Weapon][Hex] 3 [Sword] 3 [Damage] 1[/Weapon]
+<div class="whu-weapon">[Hex] 3 [Sword] 3 [Damage] 1</div><br />
 
 Type: Upgrade
 
