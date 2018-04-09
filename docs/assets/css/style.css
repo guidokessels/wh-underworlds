@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-header {
+/* Disable header added by GH Pages */
+.markdown-body>*:first-child {
   display: none;
 }
