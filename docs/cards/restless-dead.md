@@ -8,8 +8,8 @@ Place a friendly fighter that was taken out of action (other than the Sepulchral
 
 Type: Ploy
 
-Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard.md)
+Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard)
 
-Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion)
 
 Card number: 73

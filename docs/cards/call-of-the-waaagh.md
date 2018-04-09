@@ -8,8 +8,8 @@ Score this immediately if three or more of your fighters made a Charge action th
 
 Type: Objective
 
-Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz.md)
+Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz)
 
-Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion)
 
 Card number: 90

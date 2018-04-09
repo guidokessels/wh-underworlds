@@ -8,8 +8,8 @@ Score this in an end phase if no fighter suffered any damage in the preceding ac
 
 Type: Objective
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion)
 
 Card number: 240

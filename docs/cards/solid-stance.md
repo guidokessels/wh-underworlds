@@ -8,8 +8,8 @@ This fighter can only be driven back by a critical hit
 
 Type: Upgrade
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion)
 
 Card number: 419

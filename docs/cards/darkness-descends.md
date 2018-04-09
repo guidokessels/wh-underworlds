@@ -8,8 +8,8 @@ The first Attack action in the next activation has a Range of 1
 
 Type: Ploy
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion)
 
 Card number: 314

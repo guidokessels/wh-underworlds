@@ -8,8 +8,8 @@ Score this is an end phase if each player has at least one fighter in their own 
 
 Type: Objective
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion)
 
 Card number: 255

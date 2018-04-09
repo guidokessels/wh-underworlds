@@ -8,8 +8,8 @@ You can roll two additional attack dice when this fighter takes an Attack action
 
 Type: Upgrade
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set)
 
 Card number: 431

@@ -8,8 +8,8 @@ Roll an extra defence dice for the first friendly fighter to be targeted by an A
 
 Type: Ploy
 
-Faction: [Spiteclaw's Swarm](https://guidokessels.github.io/wh-underworlds/factions/spiteclaws-swarm.md)
+Faction: [Spiteclaw's Swarm](https://guidokessels.github.io/wh-underworlds/factions/spiteclaws-swarm)
 
-Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion.md)
+Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion)
 
 Card number: 157

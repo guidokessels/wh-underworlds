@@ -8,8 +8,8 @@
 
 Type: Ploy
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [Magore's Fiends Expansion](https://guidokessels.github.io/wh-underworlds/locations/magores-fiends-expansion.md)
+Found in: [Magore's Fiends Expansion](https://guidokessels.github.io/wh-underworlds/locations/magores-fiends-expansion)
 
 Card number: 361

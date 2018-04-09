@@ -8,8 +8,8 @@ Friendly fighters holding objectives cannot be driven back by the first Attack a
 
 Type: Ploy
 
-Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes.md)
+Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes)
 
-Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion)
 
 Card number: 135

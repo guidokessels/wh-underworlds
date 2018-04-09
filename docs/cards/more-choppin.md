@@ -8,8 +8,8 @@ Roll an extra attack dice for the first Attack action in the next activation
 
 Type: Ploy
 
-Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz.md)
+Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz)
 
-Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion)
 
 Card number: 104

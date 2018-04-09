@@ -8,8 +8,8 @@ This fighter's Attack action gains Cleave
 
 Type: Upgrade
 
-Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions.md)
+Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions)
 
-Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set)
 
 Card number: 53

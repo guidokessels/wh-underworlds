@@ -8,8 +8,8 @@ Score this in an end phase if you hold all objectives <i>in enemy territory</i>
 
 Type: Objective
 
-Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions.md)
+Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions)
 
-Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set)
 
 Card number: 31

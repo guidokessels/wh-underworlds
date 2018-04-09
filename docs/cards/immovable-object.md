@@ -8,8 +8,8 @@ Score this in an end phase if  the same friendly fighter has held the same objec
 
 Type: Objective
 
-Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions.md)
+Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions)
 
-Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set)
 
 Card number: 34

@@ -8,8 +8,8 @@ Any friendly fighters that make a Move action in the next activation can move on
 
 Type: Ploy
 
-Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard.md)
+Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard)
 
-Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion)
 
 Card number: 71

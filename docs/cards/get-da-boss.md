@@ -8,8 +8,8 @@ Score this in an end phase if your warband took an enemy leader out of action in
 
 Type: Objective
 
-Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz.md)
+Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz)
 
-Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion)
 
 Card number: 93

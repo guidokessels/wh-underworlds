@@ -8,8 +8,8 @@ You can re-roll one attack dice each time this fighter makes an Attack action
 
 Type: Upgrade
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion.md)
+Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion)
 
 Card number: 376

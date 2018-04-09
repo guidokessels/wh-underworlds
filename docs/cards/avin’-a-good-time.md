@@ -8,8 +8,8 @@ Choose a fighter and roll an attack dice. If you roll a [Hammer] or [Critical Hi
 
 Type: Ploy
 
-Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz.md)
+Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz)
 
-Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion)
 
 Card number: 97

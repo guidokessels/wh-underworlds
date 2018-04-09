@@ -8,8 +8,8 @@ Score this in an end phase if at least one fighter from each warband is out of a
 
 Type: Objective
 
-Faction: [Garrek’s Reavers](https://guidokessels.github.io/wh-underworlds/factions/garreks-reavers.md)
+Faction: [Garrek’s Reavers](https://guidokessels.github.io/wh-underworlds/factions/garreks-reavers)
 
-Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set)
 
 Card number: 5

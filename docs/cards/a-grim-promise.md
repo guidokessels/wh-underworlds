@@ -8,8 +8,8 @@ Score this in an end phase if your warband took an enemy leader out of action in
 
 Type: Objective
 
-Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes.md)
+Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes)
 
-Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion)
 
 Card number: 118

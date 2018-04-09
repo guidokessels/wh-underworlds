@@ -8,8 +8,8 @@ If Skritch is adjacent to this fighter, Skritch is on Guard (even if Skritch has
 
 Type: Upgrade
 
-Faction: [Spiteclaw's Swarm](https://guidokessels.github.io/wh-underworlds/factions/spiteclaws-swarm.md)
+Faction: [Spiteclaw's Swarm](https://guidokessels.github.io/wh-underworlds/factions/spiteclaws-swarm)
 
-Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion.md)
+Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion)
 
 Card number: 166

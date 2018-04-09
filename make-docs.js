@@ -23,7 +23,8 @@ const makeFilename = str =>
     .replace(/ /g, '-')
     .replace(/[^A-Za-z0-9-]/, '');
 
-const makeMdFilename = str => makeFilename(str) + '.md';
+const makeMdFilename = str => makeLink(str) + '.md';
+const makeLink = str => makeFilename(str);
 
 const writeMdFile = (filename, contents) => {
   console.log(`Writing ${filename}`);
@@ -37,11 +38,9 @@ const findPloys = stack => findCards(stack, d => d.type === 'Ploy');
 const findUpgrades = stack => findCards(stack, d => d.type === 'Upgrade');
 const findObjectives = stack => findCards(stack, d => d.type === 'Objective');
 
-const createCardLink = card => `[${card.name}](${URL}/cards/${makeMdFilename(card.name)})`;
-const createLocationLink = location =>
-  `[${location}](${URL}${'/locations/' + makeMdFilename(location)})`;
-const createFactionLink = faction =>
-  `[${faction}](${URL}${'/factions/' + makeMdFilename(faction)})`;
+const createCardLink = card => `[${card.name}](${URL}/cards/${makeLink(card.name)})`;
+const createLocationLink = location => `[${location}](${URL}${'/locations/' + makeLink(location)})`;
+const createFactionLink = faction => `[${faction}](${URL}${'/factions/' + makeLink(faction)})`;
 
 const createCard = item => ({
   item,

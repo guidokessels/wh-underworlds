@@ -8,8 +8,8 @@ Each time this fighter make an Attack action, you can re-roll one dice
 
 Type: Upgrade
 
-Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes.md)
+Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes)
 
-Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion)
 
 Card number: 136

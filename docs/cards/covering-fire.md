@@ -8,8 +8,8 @@
 
 Type: Upgrade
 
-Faction: [The Farstriders](https://guidokessels.github.io/wh-underworlds/factions/the-farstriders.md)
+Faction: [The Farstriders](https://guidokessels.github.io/wh-underworlds/factions/the-farstriders)
 
-Found in: [The Farstriders Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-farstriders-expansion.md)
+Found in: [The Farstriders Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-farstriders-expansion)
 
 Card number: 224

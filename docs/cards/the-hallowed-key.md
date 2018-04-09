@@ -8,8 +8,8 @@
 
 Type: Upgrade
 
-Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal)
 
-Found in: [The Farstriders Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-farstriders-expansion.md)
+Found in: [The Farstriders Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-farstriders-expansion)
 
 Card number: 429
