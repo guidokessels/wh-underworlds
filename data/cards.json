@@ -1,0 +1,3815 @@
+[
+  {
+    "name": "A Worthy Skull",
+    "number": 1,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/001_ENG-A-Worthy-Skull.png",
+    "text": "Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase"
+  },
+  {
+    "name": "Blood for the Blood God!",
+    "number": 2,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/002_ENG-Blood-for-the-Blood-God.png",
+    "text": "Score this immediately if three or more of your fighters made a Charge action in this phase"
+  },
+  {
+    "name": "Coward!",
+    "number": 3,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/003_ENG-Coward.png",
+    "text": "Score this immediately if an enemy fighter begins a Move action adjacent to one of your fighters and ends it adjacent to none of your fighters"
+  },
+  {
+    "name": "Draw the Gaze of Khorne",
+    "number": 4,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/004_ENG-Draw-the-Gaze-of-Khorne.png",
+    "text": "Score this immediately if your warband takes two or more enemy fighters out of action in this phase"
+  },
+  {
+    "name": "It Begins",
+    "number": 5,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/005_ENG-It-Begins.png",
+    "text": "Score this in an end phase if at least one fighter from each warband is out of action"
+  },
+  {
+    "name": "Khorne Cares Not",
+    "number": 6,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/006_ENG-Khorne-Cares-Not.png",
+    "text": "Score this in an end phase if <i>five or more</i> fighters are out of action"
+  },
+  {
+    "name": "Khorne's Champion",
+    "number": 7,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/007_ENG-Khornes-Champion.png",
+    "text": "Score this in the third end phase if all fighters except one of your fighters are out of action"
+  },
+  {
+    "name": "Let the Blood Flow",
+    "number": 8,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/008_ENG-Let-the-Blood-Flow.png",
+    "text": "Score this immediately if three or more of your fighters made a successful Attack action in this phase"
+  },
+  {
+    "name": "There is Only Slaughter",
+    "number": 9,
+    "faction": "Garrek’s Reavers",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/009_ENG-There-is-Only-Slaughter.png",
+    "text": "Score this in an end phase if no fighter is holding an objective"
+  },
+  {
+    "name": "Blood Offering",
+    "number": 10,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/010-ENG-Blood-Offering.png",
+    "text": "Choose a friendly fighter. They suffer 1 damage. Roll two extra attack dice for their first Attack action in the next activation"
+  },
+  {
+    "name": "Blood Rain",
+    "number": 11,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/011_ENG-Blood-Rain.png",
+    "text": "All Attack actions in the next activation have the [Sword] characteristic, even if they would normally have the [Hammer] characteristic"
+  },
+  {
+    "name": "Boon of Khorne",
+    "number": 12,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/012_ENG-Boon-of-Khorne.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that takes an enemy fighter out of action. Remove all wound tokens from one friendly fighter"
+  },
+  {
+    "name": "Desecrate",
+    "number": 13,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/013_ENG-Desecrate.png",
+    "text": "Remove one objective that you hold from the battlefield"
+  },
+  {
+    "name": "Final Blow",
+    "number": 14,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/014_ENG-Final-Blow.png",
+    "text": "<b>Reaction:</b> Play this after an enemy fighter's Attack action that takes an adjacent friendly fighter out of action. Their attacker suffers 1 damage"
+  },
+  {
+    "name": "Fuelled by Slaughter",
+    "number": 15,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/015_ENG-Fuelled-by-Slaughter.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action or ploy that takes a fighter out of action. A friendly fighter can make an Attack action"
+  },
+  {
+    "name": "Insensate",
+    "number": 16,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/016_ENG-Insensate.png",
+    "text": "The first friendly fighter who suffers any amount of damage in the next activation only suffers one damage"
+  },
+  {
+    "name": "Khorne Calls",
+    "number": 17,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/017_ENG-Khorne-Calls.png",
+    "text": "Roll one extra attack dice for your first Attack action in the next activation"
+  },
+  {
+    "name": "Rebirth in Blood",
+    "number": 18,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/018_ENG-Rebirth-in-Blood.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action or ploy that takes your last surviving fighter out of action. Roll a defense dice. If you roll a [Shield] or [Critical Hit] remove all wound tokens from them, and place them on a starting hex in your territory"
+  },
+  {
+    "name": "Skulls for the Skull Throne!",
+    "number": 19,
+    "faction": "Garrek’s Reavers",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/019_ENG-Skulls-for-the-Skull-Throne.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that takes an enemy fighter out of action. Draw up to two power cards"
+  },
+  {
+    "name": "Berserk Charge",
+    "number": 20,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/020_ENG-Berserk-Charge.png",
+    "text": "Both [Sword] and [Hammer] symbols are successes when this fighter makes a Charge action"
+  },
+  {
+    "name": "Bloodslick",
+    "number": 21,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/021_ENG-Bloodslick.png",
+    "text": "+1 Defence"
+  },
+  {
+    "name": "Deadly Spin",
+    "number": 22,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/022_ENG-Deadly-Spin.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 1[/Weapon] Targets adjacent enemy fighters - roll for each"
+  },
+  {
+    "name": "Ever-Advancing",
+    "number": 23,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/023_ENG-Ever-Advancing.png",
+    "text": "<b>Reaction:</b> When this fighter could be driven back during an Attack action (whether or not your opponent chooses to do so), you can instead push them one hex"
+  },
+  {
+    "name": "Frenzy",
+    "number": 24,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/024_ENG-Frenzy.png",
+    "text": "Roll an extra attack dice when this fighter makes a Charge action"
+  },
+  {
+    "name": "Grisly Trophy",
+    "number": 25,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/025_ENG-Grisly-Trophy.png",
+    "text": "When this fighter takes an enemy fighter out of action, gain 1 additional glory point"
+  },
+  {
+    "name": "Terrifying Howl",
+    "number": 26,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/026_ENG-Terrifying-Howl.png",
+    "text": "<b>Action:</b> Push each adjacent enemy fighter one hex"
+  },
+  {
+    "name": "Unstoppable Charge",
+    "number": 27,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/027_ENG-Unstoppable-Charge.png",
+    "text": "When this fighter makes a Charge action they can move through other fighters, but their move must end in an empty hex"
+  },
+  {
+    "name": "Whirlwind of Death",
+    "number": 28,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/028_ENG-Whirlwind-of-Death.png",
+    "text": "+1 Damage to all Attack actions with a Range of 1 or 2"
+  },
+  {
+    "name": "Wicked Blade",
+    "number": 29,
+    "faction": "Garrek’s Reavers",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/029_ENG-Wicked-Blade.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 2[/Weapon] If you roll at least one [Critical Hit] this Attack action has Cleave"
+  },
+  {
+    "name": "Awe-inspiring",
+    "number": 30,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/030_ENG-Awe-inspiring.png",
+    "text": "Score this immediately if your warband has taken two or more fighters out of action in this phase"
+  },
+  {
+    "name": "Cleanse",
+    "number": 31,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/031_ENG-Cleanse.png",
+    "text": "Score this in an end phase if you hold all objectives <i>in enemy territory</i>"
+  },
+  {
+    "name": "Consecrated Area",
+    "number": 32,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/032_ENG-Consecrated-Area.png",
+    "text": "Score this in an end phase if  there are no enemy fighters adjacent to your fighters"
+  },
+  {
+    "name": "Eternals",
+    "number": 33,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/033_ENG-Eternals.png",
+    "text": "Score this in the third end phase if none of your fighters are out of action"
+  },
+  {
+    "name": "Immovable Object",
+    "number": 34,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/034_ENG-Immovable-Object.png",
+    "text": "Score this in an end phase if  the same friendly fighter has held the same objective at the end of two consecutive action phases"
+  },
+  {
+    "name": "Lightning Strikes",
+    "number": 35,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/035_ENG-Lightning-Strikes.png",
+    "text": "Score this immediately if an enemy fighter is taken out of action by a Charge action made by one of your fighters"
+  },
+  {
+    "name": "Seize Ground",
+    "number": 36,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/036_ENG-Seize-Ground.png",
+    "text": "Score this in an end phase if  you hold an objective in enemy territory"
+  },
+  {
+    "name": "Sigmar's Bulwark",
+    "number": 37,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/037_ENG-Sigmars-Bulwark.png",
+    "text": "Score this in an end phase if none of your fighters suffered any damage in the preceding action phase"
+  },
+  {
+    "name": "Slayers of Tyrants",
+    "number": 38,
+    "faction": "Steelheart’s Champions",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/038_ENG-Slayers-of-Tyrants.png",
+    "text": "Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase"
+  },
+  {
+    "name": "Heroic Guard",
+    "number": 39,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/039_ENG-Heroic-Guard.png",
+    "text": "Choose a friendly fighter and put them on Guard"
+  },
+  {
+    "name": "Peal of Thunder",
+    "number": 40,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/040_ENG-Peal-of-Thunder.png",
+    "text": "Choose any enemy fighter and push them one hex in any direction"
+  },
+  {
+    "name": "Righteous Zeal",
+    "number": 41,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/041_ENG-Righteous-Zeal.png",
+    "text": "+1 Damage to the first Attack action with a Range of 1 or 2 in the next activation"
+  },
+  {
+    "name": "Sigmarite Wall",
+    "number": 42,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/042_ENG-Sigmarite-Wall.png",
+    "text": "Choose two adjacent friendly fighters and put them on Guard"
+  },
+  {
+    "name": "Stormforged Resistance",
+    "number": 43,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/043_ENG-Stormforged-Resistance.png",
+    "text": "Friendly fighters cannot be driven back by the first Attack action in the next activation"
+  },
+  {
+    "name": "Stormforged Tactics",
+    "number": 44,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/044_ENG-Stormforged-Tactics.png",
+    "text": "In the next activation make the following Reaction.<br><b>Reaction:</b> After an enemy fighter's Attack action that fails, choose up to two friendly fighters and push them up to one hex each"
+  },
+  {
+    "name": "Tireless Assault",
+    "number": 45,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/045_ENG-Tireless-Assault.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that fails. That fighter can make another Attack action that targets the same fighter"
+  },
+  {
+    "name": "Undaunted",
+    "number": 46,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/046_ENG-Undaunted.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action or ploy that takes a friendly fighter out of action leaving one surviving friendly fighter on the battlefield. Remove all wound tokens from the surviving fighter"
+  },
+  {
+    "name": "Unstoppable Strike",
+    "number": 47,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/047_ENG-Unstoppable-Strike.png",
+    "text": "The first Attack action in the next activation gains Cleave"
+  },
+  {
+    "name": "Valiant Attack",
+    "number": 48,
+    "faction": "Steelheart’s Champions",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/048_ENG-Valiant-Attack.png",
+    "text": "Enemy fighters cannot support the target of the first Attack action in the next activation"
+  },
+  {
+    "name": "Blessed by Sigmar",
+    "number": 49,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/049_ENG-Blessed-by-Sigmar.png",
+    "text": "+1 Wounds"
+  },
+  {
+    "name": "Block",
+    "number": 50,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/050_ENG-Block.png",
+    "text": "<b>Action:</b> This fighter and all adjacent friendly fighters go on Guard"
+  },
+  {
+    "name": "Brave Strike",
+    "number": 51,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/051_ENG-Brave-Strike.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 2[/Weapon] Roll an extra attack dice if there are no adjacent friendly fighters"
+  },
+  {
+    "name": "Fatal Riposte",
+    "number": 52,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/052_ENG-Fatal-Riposte.png",
+    "text": "<b>Reaction:</b> During an Attack action that targets this fighter and fails, roll an attack dice. On a roll of [Hammer] or [Critical Hit] this fighter cannot be driven back and they can make an Attack action. It must target the attacker."
+  },
+  {
+    "name": "Heroic Might",
+    "number": 53,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/053_ENG-Heroic-Might.png",
+    "text": "This fighter's Attack action gains Cleave"
+  },
+  {
+    "name": "Heroic Stride",
+    "number": 54,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/054_ENG-Heroic-Stride.png",
+    "text": "<b>Reaction:</b> After an enemy fighter ends their activation within two hexes of this fighter, you can push this fighter one hex"
+  },
+  {
+    "name": "Lightning Blade",
+    "number": 55,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/055_ENG-Lightning-Blade.png",
+    "text": "[Weapon][Hex] 2 [Hammer] 2 [Damage] 1[/Weapon] On a critical hit, this Attack action has +1 Damage"
+  },
+  {
+    "name": "Lightning Blast",
+    "number": 56,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/056_ENG-Lightning-Blast.png",
+    "text": "When they make a critical hit, this fighter also inflicts 1 damage on enemy fighters adjacent to the target's hex"
+  },
+  {
+    "name": "Righteous Strike",
+    "number": 57,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/057_ENG-Righteous-Strike.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 3 [Damage] 2[/Weapon] <b>Reaction:</b> After this Attack action, if it failed and the target was an enemy leader, make this Attack action again"
+  },
+  {
+    "name": "Shield Bash",
+    "number": 58,
+    "faction": "Steelheart’s Champions",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/058_ENG-Shield-Bash.png",
+    "text": "<b>Reaction:</b> During an adjacent fighter's Attack action that targets this fighter and fails, this fighter cannot be driven back and you can push their attacker one hex"
+  },
+  {
+    "name": "Battle Without End",
+    "number": 59,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/059_ENG-Battle-Without-End.png",
+    "text": "Score this in an end phase if two or more friendly fighters returned to the battlefield in the preceeding action phase"
+  },
+  {
+    "name": "Claim the City",
+    "number": 60,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/060_ENG-Claim-the-City.png",
+    "text": "Score this in an end phase if  you hold <i>every objective</i>"
+  },
+  {
+    "name": "Fearless in Death",
+    "number": 61,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/061_ENG-Fearless-in-Death.png",
+    "text": "Score this in an end phase if there is only one friendly fighter on the battlefield"
+  },
+  {
+    "name": "March of the Dead",
+    "number": 62,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/062_ENG-March-of-the-Dead.png",
+    "text": "Score this in an end phase if all of your surviving fighters (at least five) made a Move action in the preceding action phase"
+  },
+  {
+    "name": "More Able Bodies",
+    "number": 63,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/063_ENG-More-Able-Bodies.png",
+    "text": "Score this in an end phase if your warband took two or more enemy fighters out of action in the preceding action phase"
+  },
+  {
+    "name": "Peerless General",
+    "number": 64,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/064_ENG-Peerless-General.png",
+    "text": "Score this in the third end phase if you have four or more surviving fighters, and none are Inspired"
+  },
+  {
+    "name": "Skills Unforgotten",
+    "number": 65,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/065_ENG-Skills-Unforgotten.png",
+    "text": "Score this immediately if your leader takes an enemy fighter out of action"
+  },
+  {
+    "name": "The Invigorated Dead",
+    "number": 66,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/066_ENG-The-Invigorated-Dead.png",
+    "text": "Score this in the third end phase if all of your surviving fighters (at least three) are Inspired"
+  },
+  {
+    "name": "Undead Swarm",
+    "number": 67,
+    "faction": "Sepulchral Guard",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/067_ENG-Undead-Swarm.png",
+    "text": "Score this in an end phase <i>if each enemy fighter is adjacent to at least two friendly fighters</i>"
+  },
+  {
+    "name": "Bone Shrapnel",
+    "number": 68,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/068_ENG-Bone-Shrapnel.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action that takes a friendly fighter out of action. The fighter that took them out of action suffers 1 damage"
+  },
+  {
+    "name": "Ceaseless Attacks",
+    "number": 69,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/069_ENG-Ceaseless-Attacks.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action. Make an Attack action with another friendly fighter"
+  },
+  {
+    "name": "Clawing Hands",
+    "number": 70,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/070_ENG-Clawing-Hands.png",
+    "text": "Each friendly fighter that is not on the battlefield is considered to be supporting the first Attack action in the next activation"
+  },
+  {
+    "name": "Danse Macabre",
+    "number": 71,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/071_ENG-Danse-Macabre.png",
+    "text": "Any friendly fighters that make a Move action in the next activation can move one additional hex"
+  },
+  {
+    "name": "Grasping Hands",
+    "number": 72,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/072_ENG-Grasping-Hands.png",
+    "text": "Reduce the Move characteristic of the first fighter to be activated in the next activation by the number of friendly fighters that are not on the battlefield, to a minimum of 0"
+  },
+  {
+    "name": "Restless Dead",
+    "number": 73,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/073_ENG-Restless-Dead.png",
+    "text": "Place a friendly fighter that was taken out of action (other than the Sepulchral Warden) on a starting hex in your territory"
+  },
+  {
+    "name": "Spectral Form",
+    "number": 74,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/074_ENG-Spectral-Form.png",
+    "text": "Any friendly fighters that make a Move action in the next activation can move through additional fighters, but must end their moves on empty hexes"
+  },
+  {
+    "name": "Swift Evasion",
+    "number": 75,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/075_ENG-Swift-Evasion.png",
+    "text": "Choose one friendly fighter and push them up to two hexes. Their new position must be further away from all enemy fighters"
+  },
+  {
+    "name": "Terrifying Screams",
+    "number": 76,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/076_ENG-Terrifying-Screams.png",
+    "text": "Choose an enemy fighter and push them one hex"
+  },
+  {
+    "name": "The Necromancer Commands",
+    "number": 77,
+    "faction": "Sepulchral Guard",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/077_ENG-The-Necromancer-Commands.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that fails. Make the Attack action again"
+  },
+  {
+    "name": "Ancient Commander",
+    "number": 78,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/078_ENG-Ancient-Commander.png",
+    "text": "<b>Action:</b> Choose three other friendly fighters. Make Move actions with these fighters. This does not allow a fighter to move twice in a phase"
+  },
+  {
+    "name": "Assumed Command",
+    "number": 79,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/079_ENG-Assumed-Command.png",
+    "text": "Each friendly fighter that supports this fighter is considered to be two supporting fighters"
+  },
+  {
+    "name": "Deathly Charge",
+    "number": 80,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/080_ENG-Deathly-Charge.png",
+    "text": "This fighter's Attack actions with a Range of 1 or 2 have +1 Damage in a phase in which they make a Charge action"
+  },
+  {
+    "name": "Fatal Strike",
+    "number": 81,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/081_ENG-Fatal-Strike.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 2[/Weapon]<b>Reaction:</b> Make this Attack action during an Attack action that takes this fighter out of action, before they are removed from the battlefield. It must target their attacker"
+  },
+  {
+    "name": "Focused Attack",
+    "number": 82,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/082_ENG-Focused-Attack.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 2[/Weapon] If you roll at least one [Critical Hit] this Attack action has Cleave"
+  },
+  {
+    "name": "Frightening Speed",
+    "number": 83,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/083_ENG-Frightening-Speed.png",
+    "text": "+2 Move"
+  },
+  {
+    "name": "Grim Cleave",
+    "number": 84,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/084_ENG-Grim-Cleave.png",
+    "text": "This fighter's Attack actions gain Cleave"
+  },
+  {
+    "name": "Lethal Lunge",
+    "number": 85,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/085_ENG-Lethal-Lunge.png",
+    "text": "<p class=\"text-center p-2 mb-2 text-white weapon\">[Hex] 2 [Hammer] 2 [Damage] 3<br>Cleave</p>"
+  },
+  {
+    "name": "Remembered Shield",
+    "number": 86,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/086_ENG-Lethal-Lunge.png",
+    "text": "This fighter's Defence characteristic changes to [Shield]"
+  },
+  {
+    "name": "Undying",
+    "number": 87,
+    "faction": "Sepulchral Guard",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/087_ENG-Undying.png",
+    "text": "+1 Wounds"
+  },
+  {
+    "name": "’Ard as Iron",
+    "number": 88,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/088_ENG-’Ard-as-Iron.png",
+    "text": "Score this in the third end phase if none of your fighters are out of action"
+  },
+  {
+    "name": "Biggest an' da Best",
+    "number": 89,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/089_ENG-Biggest-an-da-Best.png",
+    "text": "Score this in an end phase if your leader took an enemy fighter out of action in the preceding action phase"
+  },
+  {
+    "name": "Call of the Waaagh!",
+    "number": 90,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/090_ENG-Call-of-the-Waaagh.png",
+    "text": "Score this immediately if three or more of your fighters made a Charge action this phase"
+  },
+  {
+    "name": "Dead Kunnin'",
+    "number": 91,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/091_ENG-Dead-Kunnin.png",
+    "text": "Score this immediately if a friendly fighter has two more supporting fighters than their target when making an Attack action"
+  },
+  {
+    "name": "Dere's More of Us",
+    "number": 92,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/092_ENG-Deres-More-of-Us.png",
+    "text": "Score this in an end phase if you have more fighters on the battlefield than <i>your opponent</i>"
+  },
+  {
+    "name": "Get Da Boss",
+    "number": 93,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/093_ENG-Get-Da-Boss.png",
+    "text": "Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase"
+  },
+  {
+    "name": "Good Scrap",
+    "number": 94,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/094_ENG-Good-Scrap.png",
+    "text": "Score this in an end phase if <i>three or more fighters</i> were taken out of action in the preceding action phase"
+  },
+  {
+    "name": "Punch-up",
+    "number": 95,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/095_ENG-Punch-up.png",
+    "text": "Score this in an end phase if each of your surviving fighters (at least two) made an Attack action against a different enemy fighter in the preceding action phase"
+  },
+  {
+    "name": "Too Dumb to Die",
+    "number": 96,
+    "faction": "Ironskull’s Boyz",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/096_ENG-Too-Dumb-to-Die.png",
+    "text": "Score this immediately if a friendly fighter suffers 3 or more damage in a single attack and is not take out of action"
+  },
+  {
+    "name": "’Avin’ a Good Time",
+    "number": 97,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/097_ENG-’Avin’-a-Good-Time.png",
+    "text": "Choose a fighter and roll an attack dice. If you roll a [Hammer] or [Critical Hit] the can make an Attack action"
+  },
+  {
+    "name": "Brutal But Kunnin'",
+    "number": 98,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/098_ENG-Brutal-But-Kunnin.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action. You can push that fighter up to three hexes"
+  },
+  {
+    "name": "Deafening Bellow",
+    "number": 99,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/099_ENG-Deafening-Bellow.png",
+    "text": "Choose an enemy fighter adjacent to one of your fighters. Push that fighter one hex"
+  },
+  {
+    "name": "Gorkamorka's Blessing",
+    "number": 100,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/100_ENG-Gorkamorkas-Blessing.png",
+    "text": "The first Attack action with a Range of 1 or 2 in the next activation has +1 Damage"
+  },
+  {
+    "name": "Kunnin' But Brutal",
+    "number": 101,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/101_ENG-Kunnin-But-Brutal.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Move action. That fighter can make an Attack action. You cannot play this during a Charge action"
+  },
+  {
+    "name": "Last Lunge",
+    "number": 102,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/102_ENG-Last-Lunge.png",
+    "text": "<b>Reaction:</b> Play this during an Attack action or ploy that will take a friendly fighter out of action, before removing them from the battlefield. Roll an attack dice. On a roll of [Hammer] or [Critical Hit] make an Attack action with that fighter. It must target the attacker"
+  },
+  {
+    "name": "Leadin' By Example",
+    "number": 103,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/103_ENG-Leadin-By-Example.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action made by your leader that takes an enemy fighter out of action. Another friendly fighter that has not already made a Move or Charge action can make a Charge action"
+  },
+  {
+    "name": "More Choppin'",
+    "number": 104,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/104_ENG-More-Choppin.png",
+    "text": "Roll an extra attack dice for the first Attack action in the next activation"
+  },
+  {
+    "name": "Pillage",
+    "number": 105,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/105_ENG-Pillage.png",
+    "text": "Remove one objective that you hold from the battlefield"
+  },
+  {
+    "name": "Scrag 'Em",
+    "number": 106,
+    "faction": "Ironskull’s Boyz",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/106_ENG-Scrag-Em.png",
+    "text": "Each friendly fighter that supports the first Attack action in the next activation is considered to be two supporting fighters"
+  },
+  {
+    "name": "’Ard Head",
+    "number": 107,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/107_ENG-’Ard-Head.png",
+    "text": "When this fighter suffers damage, reduce that damage by 1 to a minimum of 1"
+  },
+  {
+    "name": "Aspiring Boss",
+    "number": 108,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/108_ENG-Aspiring-Boss.png",
+    "text": "<b>Reaction:</b> During an Attack action by this fighter that targets an enemy leader and fails, you can re-roll one attack dice"
+  },
+  {
+    "name": "Brutal Frenzy",
+    "number": 109,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/109_ENG-Brutal-Frenzy.png",
+    "text": "Roll an extra attack dice when this fighter makes a Charge action"
+  },
+  {
+    "name": "Brutal Swing",
+    "number": 110,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/110_ENG-Brutal-Swing.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 2[/Weapon] Targets all adjacent enemy fighters - roll for each"
+  },
+  {
+    "name": "Crush and Cleave",
+    "number": 111,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/111_ENG-Crush-and-Cleave.png",
+    "text": "This fighter's Attack actions gain Cleave"
+  },
+  {
+    "name": "Dead 'Ard",
+    "number": 112,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/112_ENG-Dead-Ard.png",
+    "text": "This fighter can only be driven back by a critical hit"
+  },
+  {
+    "name": "’Eadbutt",
+    "number": 113,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/113_ENG-’Eadbutt.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 2[/Weapon] If this Attack action succeeds, the target cannot be activated for the rest of the phase"
+  },
+  {
+    "name": "Headlong Rush",
+    "number": 114,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/114_ENG-Headlong-Rush.png",
+    "text": "This fighter's Attack actions gain Knockback 1 in a phase in which they make a Charge action"
+  },
+  {
+    "name": "Unkillable",
+    "number": 115,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/115_ENG-Unkillable.png",
+    "text": "<b>Reaction:</b> During an Attack action or ploy that takes this fighter out of action, roll a defence dice. If you roll a [Shield] or [Critical Hit] they suffer no damage and are not taken out of action, and you discard this upgrade"
+  },
+  {
+    "name": "Waaagh!",
+    "number": 116,
+    "faction": "Ironskull’s Boyz",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/116_ENG-Waaagh.png",
+    "text": "This fighter's Attack actions with a Range of 1 or 2 have +1 Damage in a phase in which they make a Charge action"
+  },
+  {
+    "name": "A Claim Retaken",
+    "number": 117,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/117_ENG.png",
+    "text": "Score this in an end phase if a friendly fighter holds an objective that an enemy fighter held at the beginning of the preceding action phase"
+  },
+  {
+    "name": "A Grim Promise",
+    "number": 118,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/118_ENG.png",
+    "text": "Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase"
+  },
+  {
+    "name": "Ferocious Charge",
+    "number": 119,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/119_ENG.png",
+    "text": "Score this immediately if a friendly fighter takes an enemy figther out of action with a Charge action"
+  },
+  {
+    "name": "For the Ur-gold",
+    "number": 120,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/120_ENG.png",
+    "text": "Score this in an end phase if all your surviving fighters (at least three) are Inspired"
+  },
+  {
+    "name": "Fury of the Lodge",
+    "number": 121,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/121_ENG.png",
+    "text": "Score this in an end phase if all of your surviving fighters (at least three) made a Charge action in the preceding action phase"
+  },
+  {
+    "name": "Hoarders",
+    "number": 122,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/122_ENG.png",
+    "text": "Score this in an end phase if all of your fighters and no enemy fighters are holding objectives"
+  },
+  {
+    "name": "Oaths Still to Fulfil",
+    "number": 123,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/123_ENG.png",
+    "text": "Score this in the third end phase if none of your fighters are out of action"
+  },
+  {
+    "name": "Scion of Grimnir",
+    "number": 124,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/124_ENG.png",
+    "text": "Score this immediately if your leader takes an enemy fighter out of action"
+  },
+  {
+    "name": "Unstoppable Advance",
+    "number": 125,
+    "faction": "The Chosen Axes",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/125_ENG.png",
+    "text": "Score this in an end phase if all of your surviving fighters are in enemy territory"
+  },
+  {
+    "name": "Berserk Fury",
+    "number": 126,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/126_ENG.png",
+    "text": "The first time a friendly fighter suffers damage in the next activation, roll a defence dice. If the result is a [Shield] they suffer no damage"
+  },
+  {
+    "name": "Indomitable",
+    "number": 127,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/127_ENG.png",
+    "text": "The first time a friendly fighter suffers damage in the next activation, they only suffer 1 damage"
+  },
+  {
+    "name": "Living Wall",
+    "number": 128,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/128_ENG.png",
+    "text": "Choose two friendly fighters and push each of them up to one hex. They must end up adjacent to one another"
+  },
+  {
+    "name": "Oathsworn",
+    "number": 129,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/129_ENG.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that fails. That fighter can make another Attack action that targets the same fighter"
+  },
+  {
+    "name": "Piercing Stare",
+    "number": 130,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/130_ENG.png",
+    "text": "Choose an enemy fighter. They cannot make an Attack action of a Charge action in the next activation"
+  },
+  {
+    "name": "Slaying Blow",
+    "number": 131,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/131_ENG.png",
+    "text": "If the first Attack action in the next activation is a critical hit, double its Damage characteristic"
+  },
+  {
+    "name": "The Earth Shakes",
+    "number": 132,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/132_ENG.png",
+    "text": "Choose a fighter and push them one hex"
+  },
+  {
+    "name": "Treasure-lust",
+    "number": 133,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/133_ENG.png",
+    "text": "Choose a friendly fighter and push them up to three hexes. They must end up holding an objective"
+  },
+  {
+    "name": "Ur-gold Boon",
+    "number": 134,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/134_ENG.png",
+    "text": "Choose a friendly fighter and roll a defence dice. On a roll of [Shield] or [Critical Hit] remove up to two wound tokens from them. Otherwise remove one wound token from them"
+  },
+  {
+    "name": "We Shall Not Be Moved",
+    "number": 135,
+    "faction": "The Chosen Axes",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/135_ENG.png",
+    "text": "Friendly fighters holding objectives cannot be driven back by the first Attack action in the next activation"
+  },
+  {
+    "name": "Activated Runes",
+    "number": 136,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/136_ENG.png",
+    "text": "Each time this fighter make an Attack action, you can re-roll one dice"
+  },
+  {
+    "name": "Brute Strength",
+    "number": 137,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/137_ENG.png",
+    "text": "This fighter's Attack actions gain Knockback 1"
+  },
+  {
+    "name": "Defiant Strike",
+    "number": 138,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/138_ENG.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 1[/Weapon] <b>Reaction:</b> During an Attack action that succeeds against this fighter, this fighter cannot be driven back and makes this Attack action. It must target the attacker."
+  },
+  {
+    "name": "Flurry of Blows",
+    "number": 139,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/139_ENG.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 2[/Weapon]"
+  },
+  {
+    "name": "Great Swing",
+    "number": 140,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/140_ENG.png",
+    "text": "[Weapon][Hex] 1 [Sword] 2 [Damage] 2[/Weapon] Targets all adjacent enemy fighters - roll for each"
+  },
+  {
+    "name": "Grimnir's Blessing",
+    "number": 141,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/141_ENG.png",
+    "text": "<b>Reaction:</b> During an Attack action or ploy that would take this fighter out of action, roll a defence dice. If you roll a [Shield] the damage suffered by this fighter is ignored"
+  },
+  {
+    "name": "Grimnir's Fortitude",
+    "number": 142,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/142_ENG.png",
+    "text": "+1 Defence"
+  },
+  {
+    "name": "Grimnir's Speed",
+    "number": 143,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/143_ENG.png",
+    "text": "+2 Move"
+  },
+  {
+    "name": "Returning Axe",
+    "number": 144,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/144_ENG.png",
+    "text": "[Weapon][Hex] 3 [Sword] 2 [Damage] 1[/Weapon] On a critical hit this Attack action has +1 Damage"
+  },
+  {
+    "name": "War Song",
+    "number": 145,
+    "faction": "The Chosen Axes",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/145_ENG.png",
+    "text": "This fighter is considered to be two supporting fighters when they support, rather than one"
+  },
+  {
+    "name": "Arm's Length",
+    "number": 146,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/146_ENG.png",
+    "text": "Score this immediately if your warband takes an enemy fighter out of action while they are adjacent to none of your fighters"
+  },
+  {
+    "name": "Brilliant, Brilliant!",
+    "number": 147,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/147_ENG.png",
+    "text": "Score this in an end phase if you scored two or more other objective cards in the preceding action phase"
+  },
+  {
+    "name": "Feast-feast",
+    "number": 148,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/148_ENG.png",
+    "text": "Score this in an end phase if <i>all enemy fighters</i> have been taken out of action"
+  },
+  {
+    "name": "Honed Survival Instincts",
+    "number": 149,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/149_ENG.png",
+    "text": "Score this in an end phase if no friendly figther was taken out of action in the preceding action phase"
+  },
+  {
+    "name": "Leading from the Back",
+    "number": 150,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/150_ENG.png",
+    "text": "Score this in the third end phase if your leader is in your territory and not adjacent to an enemy"
+  },
+  {
+    "name": "Live to Fight Another Day",
+    "number": 151,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/151_ENG.png",
+    "text": "Score this in the third end phase if the only surviving friendly fighter is your leader"
+  },
+  {
+    "name": "Lives are Cheap",
+    "number": 152,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/152_ENG.png",
+    "text": "Score this in an end phase if two or more friendly fighters were taken out of action in the preceeding action phase"
+  },
+  {
+    "name": "Numberless Swarm",
+    "number": 153,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/153_ENG.png",
+    "text": "Score this in the third end phase if there are five friendly fighters on the battledfield"
+  },
+  {
+    "name": "Skritch is the Greatest, Yes-yes",
+    "number": 154,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/154_ENG.png",
+    "text": "Score this immediately if your leader takes an enemy fighter out of action"
+  },
+  {
+    "name": "Aversion to Death",
+    "number": 155,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/155_ENG.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action that takes a friendly fighter out of action. Push up to two friendly fighters one hex each"
+  },
+  {
+    "name": "Frenzied Stabbing",
+    "number": 156,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/156_ENG.png",
+    "text": "The first Attack action with a Range of 1 or 2 in the next activation has +1 Damage"
+  },
+  {
+    "name": "Heightened Caution",
+    "number": 157,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/157_ENG.png",
+    "text": "Roll an extra defence dice for the first friendly fighter to be targeted by an Attack action in the next activation"
+  },
+  {
+    "name": "Momentary Boldness",
+    "number": 158,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/158_ENG.png",
+    "text": "Choose a friendly fighter adjacent to two or more friendly fighters. That fighter makes a Charge action"
+  },
+  {
+    "name": "Musk of Fear",
+    "number": 159,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/159_ENG.png",
+    "text": "Choose a friendly fighter and put them on Guard"
+  },
+  {
+    "name": "Nervous Scrabbling",
+    "number": 160,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/160_ENG.png",
+    "text": "Choose a friendly fighter. They switch places with any adjacent fighter"
+  },
+  {
+    "name": "Scratching in the Shadows",
+    "number": 161,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/161_ENG.png",
+    "text": "Choose an enemy fighter and push them one hex"
+  },
+  {
+    "name": "Skaven Courage",
+    "number": 162,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/162_ENG.png",
+    "text": "Play this if there are at least three friendly fighters adjacent to the same enemy fighter. One of those friendly fighters can make an Attack action"
+  },
+  {
+    "name": "Sudden Skittering",
+    "number": 163,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/163_ENG.png",
+    "text": "Double the Move characteristic of the first friendly fighter to make a Move action in the next activation. They may not make a Charge action. Once they have moved, they cannot be activated again this phase"
+  },
+  {
+    "name": "There Are Always More",
+    "number": 164,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/164_ENG.png",
+    "text": "Choose one friendly fighter that is out of action (other than Skritch or Krrk). Remove all wound tokens from them and place them on any starting hex"
+  },
+  {
+    "name": "Black Hunger",
+    "number": 165,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/165_ENG.png",
+    "text": "This fighter's Attack actions with a Range of 1 have +1 Damage, and target all adjacent fighters (friend and foe) - roll for each. Fighters do not provide support for Attack actions against friendly models (in attack or defence)"
+  },
+  {
+    "name": "Bodyguard for a Price",
+    "number": 166,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/166_ENG.png",
+    "text": "If Skritch is adjacent to this fighter, Skritch is on Guard (even if Skritch has made a Charge action this phase)"
+  },
+  {
+    "name": "Expendable",
+    "number": 167,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/167_ENG.png",
+    "text": "<b>Reaction:</b> During an Attack action that will cause any damage to this fighter, you can remove them from the battlefield and deal 1 damage to their attacker"
+  },
+  {
+    "name": "Festering Blade",
+    "number": 168,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/168_ENG.png",
+    "text": "On a critical hit, this fighter's Attack actions with a Range of 1 or 2 have +2 Damage"
+  },
+  {
+    "name": "Flee!",
+    "number": 169,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/169_ENG.png",
+    "text": "<b>Action:</b> This fighter and one adjacent friendly fighter can make a Move action. Both figthers must end their move further away from all enemy fighters"
+  },
+  {
+    "name": "Skitter-scurry",
+    "number": 170,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/170_ENG.png",
+    "text": "<b>Reaction:</b> After any action that this fighter makes, you can push this fighter one hex"
+  },
+  {
+    "name": "Sneaky Stab-stab",
+    "number": 171,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/171_ENG.png",
+    "text": "You can push this fighter one hex before they take an Attack action, though not when this fighter takes a Charge action"
+  },
+  {
+    "name": "Swarm of Rats",
+    "number": 172,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/172_ENG.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 1[/Weapon] Targets all adjacent enemy fighters - roll for each"
+  },
+  {
+    "name": "Throwing Stars",
+    "number": 173,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/173_ENG.png",
+    "text": "[Weapon][Hex] 3 [Sword] 3 [Damage] 1[/Weapon]"
+  },
+  {
+    "name": "Whirling Halberd",
+    "number": 174,
+    "faction": "Spiteclaw's Swarm",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/174_ENG.png",
+    "text": "[Weapon][Hex] 1 [Sword] 2 [Damage] 2[/Weapon] Targets all adjacent enemy fighters - roll for each"
+  },
+  {
+    "name": "All the Better to Slay Them",
+    "number": 175,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/175_ENG.png"
+  },
+  {
+    "name": "Bane of Champions",
+    "number": 176,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/176_ENG.png"
+  },
+  {
+    "name": "Bloody Annihilation",
+    "number": 177,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/177_ENG.png"
+  },
+  {
+    "name": "Khorne Sees Us",
+    "number": 178,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/178_ENG.png"
+  },
+  {
+    "name": "Kill! Kill Again!",
+    "number": 179,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/179_ENG.png"
+  },
+  {
+    "name": "No Escape",
+    "number": 180,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/180_ENG.png"
+  },
+  {
+    "name": "Rivers of Blood",
+    "number": 181,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/181_ENG.png"
+  },
+  {
+    "name": "Save the Best",
+    "number": 182,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/182_ENG.png"
+  },
+  {
+    "name": "Show of Strength",
+    "number": 183,
+    "faction": "Magore's Fiends",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/183_ENG.png"
+  },
+  {
+    "name": "Blood Frenzy",
+    "number": 184,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/184_ENG.png"
+  },
+  {
+    "name": "Bloodslick Ground",
+    "number": 185,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/185_ENG.png"
+  },
+  {
+    "name": "Bloody Retribution",
+    "number": 186,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/186_ENG.png"
+  },
+  {
+    "name": "Continue the Slaughter",
+    "number": 187,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/187_ENG.png"
+  },
+  {
+    "name": "Daemonic Resilience",
+    "number": 188,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/188_ENG.png"
+  },
+  {
+    "name": "Fountain of Gore",
+    "number": 189,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/189_ENG.png"
+  },
+  {
+    "name": "Furious Inspiration",
+    "number": 190,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/190_ENG.png"
+  },
+  {
+    "name": "Glory to Khorne",
+    "number": 191,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/191_ENG.png"
+  },
+  {
+    "name": "Horrifying Howl",
+    "number": 192,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/192_ENG.png"
+  },
+  {
+    "name": "To the Victor, the Spoils",
+    "number": 193,
+    "faction": "Magore's Fiends",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/193_ENG.png"
+  },
+  {
+    "name": "Brutal Charge",
+    "number": 194,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/194_ENG.png"
+  },
+  {
+    "name": "Daemonic Maw",
+    "number": 195,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/195_ENG.png"
+  },
+  {
+    "name": "Furious Charge",
+    "number": 196,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/196_ENG.png"
+  },
+  {
+    "name": "No Respite",
+    "number": 197,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/197_ENG.png"
+  },
+  {
+    "name": "Predatory Leap",
+    "number": 198,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/198_ENG.png"
+  },
+  {
+    "name": "Rage-fuelled Attacks",
+    "number": 199,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/199_ENG.png"
+  },
+  {
+    "name": "Shake About",
+    "number": 200,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/200_ENG.png"
+  },
+  {
+    "name": "Trophy Hunter",
+    "number": 201,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/201_ENG.png"
+  },
+  {
+    "name": "Unshakeable",
+    "number": 202,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/202_ENG.png"
+  },
+  {
+    "name": "Wrathful Blows",
+    "number": 203,
+    "faction": "Magore's Fiends",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/203_ENG.png"
+  },
+  {
+    "name": "Behead the Beast",
+    "number": 204,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/204_ENG.png"
+  },
+  {
+    "name": "Brave but Cautious",
+    "number": 205,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/205_ENG.png"
+  },
+  {
+    "name": "Close with the Enemy",
+    "number": 206,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/206_ENG.png"
+  },
+  {
+    "name": "Eternal Supremacy",
+    "number": 207,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/207_ENG.png"
+  },
+  {
+    "name": "Lightning Advance",
+    "number": 208,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/208_ENG.png"
+  },
+  {
+    "name": "Meticulous Annihilation",
+    "number": 209,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/209_ENG.png"
+  },
+  {
+    "name": "Punishing Volleys",
+    "number": 210,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/210_ENG.png"
+  },
+  {
+    "name": "Ranger Strike",
+    "number": 211,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/211_ENG.png"
+  },
+  {
+    "name": "Sigmar's Finest",
+    "number": 212,
+    "faction": "The Farstriders",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/212_ENG.png"
+  },
+  {
+    "name": "Fearsome Roar",
+    "number": 213,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/213_ENG.png"
+  },
+  {
+    "name": "Firm Footing",
+    "number": 214,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/214_ENG.png"
+  },
+  {
+    "name": "Firm Footing",
+    "number": 214,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/214_ENG.png"
+  },
+  {
+    "name": "Lightning Blow",
+    "number": 215,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/215_ENG.png"
+  },
+  {
+    "name": "Lightning Stride",
+    "number": 216,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/216_ENG.png"
+  },
+  {
+    "name": "Patient Defence",
+    "number": 217,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/217_ENG.png"
+  },
+  {
+    "name": "Rangers, Advance",
+    "number": 218,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/218_ENG.png"
+  },
+  {
+    "name": "Rapid Volley",
+    "number": 219,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/219_ENG.png"
+  },
+  {
+    "name": "Retribution",
+    "number": 220,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/220_ENG.png"
+  },
+  {
+    "name": "Steady Volley",
+    "number": 221,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/221_ENG.png"
+  },
+  {
+    "name": "Warning Cry",
+    "number": 222,
+    "faction": "The Farstriders",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/222_ENG.png"
+  },
+  {
+    "name": "Aetheric Step",
+    "number": 223,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/223_ENG.png"
+  },
+  {
+    "name": "Covering Fire",
+    "number": 224,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/224_ENG.png"
+  },
+  {
+    "name": "Flashing Handaxe",
+    "number": 225,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/225_ENG.png"
+  },
+  {
+    "name": "Furious Blow",
+    "number": 226,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/226_ENG.png"
+  },
+  {
+    "name": "Lone Warrior",
+    "number": 227,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/227_ENG.png"
+  },
+  {
+    "name": "Overcharged Boltstorm Pistol",
+    "number": 228,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/228_ENG.png"
+  },
+  {
+    "name": "Sharp Eyes",
+    "number": 229,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/229_ENG.png"
+  },
+  {
+    "name": "Spinning Strike",
+    "number": 230,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/230_ENG.png"
+  },
+  {
+    "name": "Swift Stride",
+    "number": 231,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/231_ENG.png"
+  },
+  {
+    "name": "Well-timed Lunge",
+    "number": 232,
+    "faction": "The Farstriders",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/232_ENG.png"
+  },
+  {
+    "name": "Accept Inevitability",
+    "number": 233,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/233_ENG.png"
+  },
+  {
+    "name": "Advancing Strike",
+    "number": 234,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/234_ENG.png"
+  },
+  {
+    "name": "Alone in the Darkness",
+    "number": 235,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/235_ENG.png",
+    "text": "Score this in an end phase if there are no adjacent fighters on the battlefield"
+  },
+  {
+    "name": "Annihilation",
+    "number": 236,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/236_ENG-Anihilation.png",
+    "text": "Score this in an end phase if <i>all enemy fighters have been taken out of action</i>"
+  },
+  {
+    "name": "Assassinate",
+    "number": 237,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/237_ENG.png",
+    "text": "Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase"
+  },
+  {
+    "name": "Balance of Power",
+    "number": 238,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/238_ENG.png"
+  },
+  {
+    "name": "Blooded",
+    "number": 239,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/239_ENG-Blooded.png",
+    "text": "Score this in an end phase if all of your surviving fighters (at least three) have at least one wound token"
+  },
+  {
+    "name": "Bloodless",
+    "number": 240,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/240_ENG-Bloodless.png",
+    "text": "Score this in an end phase if no fighter suffered any damage in the preceding action phase"
+  },
+  {
+    "name": "Brawl",
+    "number": 241,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/241_ENG-Brawl.png",
+    "text": "Score this in an end phase if all friendly figthers (at least three) are adjacent to enemy fighters"
+  },
+  {
+    "name": "Butchery",
+    "number": 242,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/242_ENG.png",
+    "text": "Score this in an end phase if your warband took three or more enemy fighters out of action in the preceding action phase"
+  },
+  {
+    "name": "Change of Tactics",
+    "number": 243,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/243_ENG.png"
+  },
+  {
+    "name": "Chosen Champion",
+    "number": 244,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/244_ENG.png"
+  },
+  {
+    "name": "Complete Victory",
+    "number": 245,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/245_ENG.png"
+  },
+  {
+    "name": "Concerted Attack",
+    "number": 246,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/246_ENG.png"
+  },
+  {
+    "name": "Conquest",
+    "number": 247,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/247_ENG-Conquest.png",
+    "text": "Score this in the third end phase if all of your surviving fighters are <i>in your opponent's territory</i>"
+  },
+  {
+    "name": "Contained",
+    "number": 248,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/248_ENG-Contained.png",
+    "text": "Score this in the third end phase <i>if all surviving enemy fighters are in their territory</i>"
+  },
+  {
+    "name": "Cover Ground",
+    "number": 249,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/249_ENG.png",
+    "text": "Score this immediately if a friendly fighter makes a Move action of six or more hexes"
+  },
+  {
+    "name": "Crushing Force",
+    "number": 250,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/250_ENG-Crushing-Force.png",
+    "text": "Score this immediately if a friendly fighter makes a successful attack that deals at least twice as much damage as is needed to take their target out of action"
+  },
+  {
+    "name": "Dauntless",
+    "number": 251,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/251_ENG.png",
+    "text": "Score this in an end phase if your fighters are outnumbered by <i>at least three to one</i>"
+  },
+  {
+    "name": "Defensive Strike",
+    "number": 252,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/252_ENG.png"
+  },
+  {
+    "name": "Denial",
+    "number": 253,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/253_ENG-Denial.png",
+    "text": "Score this in the third end phase if there are no enemy fighters in your territory"
+  },
+  {
+    "name": "Determined Defender",
+    "number": 254,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/254_ENG-Determined-Defender.png",
+    "text": "Score this in an end phase if the same friendly fighter has held the same objective at the end of two consecutive action phases"
+  },
+  {
+    "name": "Divide and Conquer",
+    "number": 255,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/255_ENG-Divide-and-Conquer.png",
+    "text": "Score this is an end phase if each player has at least one fighter in their own territory and at least one fighter in enemy territory"
+  },
+  {
+    "name": "Endless Slaughter",
+    "number": 256,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/256_ENG-Endless-Slaughter.png",
+    "text": "Score this in the third end phase if <i>five</i> or more enemy fighters are out of action"
+  },
+  {
+    "name": "Escalation",
+    "number": 257,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/257_ENG.png",
+    "text": "Score this in an end phase if <i>three or more upgrade cards</i> were played in the preceding action phase"
+  },
+  {
+    "name": "Fearless",
+    "number": 258,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/258_ENG.png"
+  },
+  {
+    "name": "Flawless Strategy",
+    "number": 259,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/259_ENG-Flawless-Strategy.png",
+    "text": "Score this in an end phase if you scored two or more other objective cards in this phase"
+  },
+  {
+    "name": "Geared for War",
+    "number": 260,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/260_ENG-Geared-for-War.png",
+    "text": "Score this in an end phase if each of your surviving figthers (at least three) has at least one upgrade"
+  },
+  {
+    "name": "Heroes All",
+    "number": 261,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/261_ENG.png"
+  },
+  {
+    "name": "Heroic Feat",
+    "number": 262,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/262_ENG.png"
+  },
+  {
+    "name": "Hold Objective 1",
+    "number": 263,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/263_ENG-Hold-Objective-1.png",
+    "text": "Score this in an end phase if you are holding objective <i>1</i>"
+  },
+  {
+    "name": "Hold Objective 2",
+    "number": 264,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/264_ENG-Hold-Objective-2.png",
+    "text": "Score this in an end phase if you are holding objective <i>2</i>"
+  },
+  {
+    "name": "Hold Objective 3",
+    "number": 265,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/265_ENG-Hold-Objective-3.png",
+    "text": "Score this in an end phase if you are holding objective <i>3</i>"
+  },
+  {
+    "name": "Hold Objective 4",
+    "number": 266,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/266_ENG-Hold-Objective-4.png",
+    "text": "Score this in an end phase if you are holding objective <i>4</i>"
+  },
+  {
+    "name": "Hold Objective 5",
+    "number": 267,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/267_ENG-Hold-Objective-5.png",
+    "text": "Score this in an end phase if you are holding objective <i>5</i>"
+  },
+  {
+    "name": "Honest Opponent",
+    "number": 268,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/268_ENG.png",
+    "text": "Score this in an end phase if you played no ploy cards during the preceding action phase"
+  },
+  {
+    "name": "Killing Ground",
+    "number": 269,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/269_ENG.png"
+  },
+  {
+    "name": "Making a Statement",
+    "number": 270,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/270_ENG.png",
+    "text": "Score this in an end phase if you hold <i>all objectives (at least one) in your opponent's territory</i>"
+  },
+  {
+    "name": "Massive Assault",
+    "number": 271,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/271_ENG.png"
+  },
+  {
+    "name": "Master of War",
+    "number": 272,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/272_ENG.png",
+    "text": "Score this in an end phase if you scored an objective card, played a ploy card and played an upgrade card in this round"
+  },
+  {
+    "name": "Masterstroke",
+    "number": 273,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/273_ENG.png"
+  },
+  {
+    "name": "Miraculous Escape",
+    "number": 274,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/274_ENG.png",
+    "text": "Score this immediately if one of your fighters is the target of an enemy Attack action with a Dice characteristic of 3 or more that fails"
+  },
+  {
+    "name": "Multiple Fronts",
+    "number": 275,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/275_ENG.png"
+  },
+  {
+    "name": "No More Tricks",
+    "number": 276,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/276_ENG.png",
+    "text": "Score this in an end phase if you have no power cards in your hand"
+  },
+  {
+    "name": "No Remorse",
+    "number": 277,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/277_ENG.png",
+    "text": "Score this immediately if one of your fighters takes an enemy fighter out of action with an Attack action with a Damage characteristic greater than the target's Wounds characteristic"
+  },
+  {
+    "name": "Our Only Way Out",
+    "number": 278,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/278_ENG.png"
+  },
+  {
+    "name": "Overextended",
+    "number": 279,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/279_ENG.png",
+    "text": "Score this in an end phase <i>if you hold every objective</i>"
+  },
+  {
+    "name": "Perfect Planning",
+    "number": 280,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/280_ENG.png",
+    "text": "Score this in an end phase if none of your fighters made a Move action in the preceding action phase"
+  },
+  {
+    "name": "Plant a Standard",
+    "number": 281,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/281_ENG-Plant-a-Standard.png",
+    "text": "Score this in an end phase if your leader is holding an objective in enemy territory"
+  },
+  {
+    "name": "Ploymaster",
+    "number": 282,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/282_ENG-Ploymaster.png",
+    "text": "Score this in an end phase if you played three or more ploys in the preceding action phase"
+  },
+  {
+    "name": "Poised to Strike",
+    "number": 283,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/283_ENG.png"
+  },
+  {
+    "name": "Precise Use of Force",
+    "number": 284,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/284_ENG.png",
+    "text": "Score this immediately if a friendly fighter makes a successful Attack action that deals exactly enough damage to take their target out of action"
+  },
+  {
+    "name": "Pure Carnage",
+    "number": 285,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/285_ENG.png"
+  },
+  {
+    "name": "Ready for a Challenge",
+    "number": 286,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/286_ENG.png",
+    "text": "Score this in an end phase if all remaining enemy fighters (at least three) have an upgrade"
+  },
+  {
+    "name": "Reaper",
+    "number": 287,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/287_ENG-Reaper.png",
+    "text": "Score this immediately if a friendly fighter's attack takes two or more enemy fighters out of action"
+  },
+  {
+    "name": "Scent of Victory",
+    "number": 288,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/288_ENG-Scent-of-Victory.png",
+    "text": "Score this in an end phase if all surviving enemy fighters (at least three) have at least one wound token"
+  },
+  {
+    "name": "Stymied",
+    "number": 290,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/290_ENG-Stymied.png",
+    "text": "Score this in an end phase if <i>your opponent played no power cards</i> in the preceding action phase"
+  },
+  {
+    "name": "Superior Tactician",
+    "number": 291,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/291_ENG-Superior-Tactician.png",
+    "text": "Score this in the third end phase if you have scored six or more other objective cards"
+  },
+  {
+    "name": "Supremacy",
+    "number": 292,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/292_ENG-Supremacy.png",
+    "text": "Score this in an end phase if you hold three or more objectives"
+  },
+  {
+    "name": "Swift Advance",
+    "number": 293,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/293_ENG-Swift-Advance.png",
+    "text": "Score this in an end phase if all of your surviving fighters are in enemy territory"
+  },
+  {
+    "name": "Tactical Genius 1-3",
+    "number": 294,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/294_ENG.png",
+    "text": "Score this in an end phase if you hold objectives 1, 2 and 3"
+  },
+  {
+    "name": "Tactical Genius 3-5",
+    "number": 295,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/295_ENG.png",
+    "text": "Score this in an end phase if you hold objectives 3, 4 and 5"
+  },
+  {
+    "name": "Tactical Supremacy 1-2",
+    "number": 296,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/296_ENG-Tactical-Supremacy-1-2.png",
+    "text": "Score this in an end phase if you hold objectives 1 and 2"
+  },
+  {
+    "name": "Tactical Supremacy 3-4",
+    "number": 297,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/297_ENG-Tactical-Supremacy-3-4.png",
+    "text": "Score this in an end phase if you hold objectives 3 and 4"
+  },
+  {
+    "name": "The Bigger They Are",
+    "number": 298,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/298_ENG.png",
+    "text": "Score this immediately if a friendly fighter takes an enemy fighter out of action with an Attack action that had a Damage characteristic of 1"
+  },
+  {
+    "name": "The Harvest Begins",
+    "number": 299,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/299_ENG-The-Harvest-Begins.png",
+    "text": "Score this immediatley if a friendly fighter makes an Attack action that damages three or more enemy fighters"
+  },
+  {
+    "name": "Total Annihilation",
+    "number": 300,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/300_ENG.png",
+    "text": "Score this in the first or second end phase if all enemy fighters have been taken out of action"
+  },
+  {
+    "name": "Trapped",
+    "number": 301,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/301_ENG.png",
+    "text": "Score this immediately if an enemy fighter takes damage from a friendly fighter's Attack action because they cannot be driven back"
+  },
+  {
+    "name": "Twilight Conqueror",
+    "number": 302,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/302_ENG-Twilight-Conqueror.png",
+    "text": "Score this in an end phase if all of your surviving fighters (at least three) are neither in your territory nor enemy territory"
+  },
+  {
+    "name": "Unbroken Wall",
+    "number": 303,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/303_ENG.png",
+    "text": "Score this in an end phase if all surviving friendly fighters (at least three) are in a single group with each friendly fighter adjacent to another friendly fighter"
+  },
+  {
+    "name": "Unstoppable",
+    "number": 304,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/304_ENG.png"
+  },
+  {
+    "name": "Victorious Duel",
+    "number": 305,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/305_ENG-Victorious-Duel.png",
+    "text": "Score this immediately if your leader takes an enemy leader out of action"
+  },
+  {
+    "name": "Victory After Victory",
+    "number": 306,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/306_ENG.png"
+  },
+  {
+    "name": "War of Attrition",
+    "number": 307,
+    "faction": "Universal",
+    "type": "Objective",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/307_ENG.png"
+  },
+  {
+    "name": "Anticipation",
+    "number": 308,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/308_ENG-Anticipation.png",
+    "text": "Play this card after the final activation in an action phase. Name an objective card. If an opponent scores that objective in the end phase, score a glory point"
+  },
+  {
+    "name": "Blinding Flash",
+    "number": 309,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/309_ENG.png",
+    "text": "<b>Reaction:</b> Play this during an Attack action with a Range of 3 or greater (before any dice are rolled). The Attacks characteristic of that Attack action is changed to [Sword] 1"
+  },
+  {
+    "name": "Confused Priorities",
+    "number": 310,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/310_ENG.png",
+    "text": "Switch two objectives that are currently being held"
+  },
+  {
+    "name": "Confusion",
+    "number": 311,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/311_ENG-Confusion.png",
+    "text": "Choose two fighters that are adjacent to each other and switch them"
+  },
+  {
+    "name": "Cruel Taunt",
+    "number": 312,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/312_ENG-Cruel-Taunt.png",
+    "text": "Choose an enemy fighter and roll an attack dice. On a roll of [Hammer] or [Critical Hit] they are no longer Inspired, and cannot be Inspired this game"
+  },
+  {
+    "name": "Curious Inversion",
+    "number": 313,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/313_ENG.png",
+    "text": "For the first Attack action in the next activation, [Hammer] characteristics become [Sword] characteristics and vice versa, and [Dodge] characteristics become [Shield] characteristics and vice versa"
+  },
+  {
+    "name": "Darkness Descends",
+    "number": 314,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/314_ENG.png",
+    "text": "The first Attack action in the next activation has a Range of 1"
+  },
+  {
+    "name": "Daylight Robbery",
+    "number": 315,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/315_ENG-Daylight-Robbery.png",
+    "text": "Roll an attack dice. If you roll a [Hammer] or [Critical Hit] take one of your opponent's unspent glory points"
+  },
+  {
+    "name": "Death Throes",
+    "number": 316,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/316_ENG.png",
+    "text": "<b>Reaction:</b> Play this card during an Attack action or ploy that will take a friendly fighter out of action. Choose an enemy fighter adjacent to the taret. They suffer 1 damage"
+  },
+  {
+    "name": "Desperate Gambit",
+    "number": 317,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/317_ENG.png",
+    "text": "When resolving the first Attack action in the next activation, you and your opponent roll off. The winner chooses whether the Attack action fails or succeeds"
+  },
+  {
+    "name": "Distraction",
+    "number": 318,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/318_ENG-Distraction.png",
+    "text": "Choose an enemy fighter and push them one hex"
+  },
+  {
+    "name": "Dual Strike",
+    "number": 319,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/319_ENG-Dual-Strike.png",
+    "text": "One fighter supporting the first Attack action in the next activation is considered to be two supporting fighters"
+  },
+  {
+    "name": "Duel of Wits",
+    "number": 320,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/320_ENG-Duel-of-Wits.png",
+    "text": "<b>Reaction:</b> Play this when an opponent plays a ploy. Draw two power cards"
+  },
+  {
+    "name": "Earthquake",
+    "number": 321,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/321_ENG.png",
+    "text": "Push all fighters one hex. You must push them all in the same direction. Any that cannot be pushed this way are not pushed"
+  },
+  {
+    "name": "Ephemeral Shield",
+    "number": 322,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/322_ENG.png"
+  },
+  {
+    "name": "Flickering Step",
+    "number": 323,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/323_ENG.png"
+  },
+  {
+    "name": "Forceful Denial",
+    "number": 324,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/324_ENG-Forceful-Denial.png",
+    "text": "<b>Reaction:</b> Play this when an opponent plays a ploy. Roll a defence dice. On a roll of [Shield] or [Critical Hit] that ploy has no effect"
+  },
+  {
+    "name": "Fortify",
+    "number": 325,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/325_ENG-Fortify.png",
+    "text": "Friendly fighters holding objectives have +1 Defence for the next activation"
+  },
+  {
+    "name": "Frozen in Time",
+    "number": 326,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/326_ENG.png"
+  },
+  {
+    "name": "Fuelled by Fury",
+    "number": 327,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/327_ENG.png",
+    "text": "You can re-roll any attack dice for the first friendly fighter's Attack action in the next activation"
+  },
+  {
+    "name": "Grapple",
+    "number": 328,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/328_ENG.png"
+  },
+  {
+    "name": "Great Concussion",
+    "number": 329,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/329_ENG.png"
+  },
+  {
+    "name": "Healing Potion",
+    "number": 330,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/330_ENG-Healing-Potion.png",
+    "text": "Choose a friendly fighter and roll a defence dice. On a roll of [Shield] or [Critical Hit] remove up to two wound tokens from them. Otherwise remove one wound token from them"
+  },
+  {
+    "name": "Hidden Paths",
+    "number": 331,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/331_ENG.png"
+  },
+  {
+    "name": "Illusory Fighter",
+    "number": 332,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/332_ENG-Illusory-Fighter.png",
+    "text": "Choose one of your fighters on the battlefield. Place them on a starting hex in your territory"
+  },
+  {
+    "name": "Improvisation",
+    "number": 333,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/333_ENG.png"
+  },
+  {
+    "name": "Inspiration Strikes",
+    "number": 334,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/334_ENG.png"
+  },
+  {
+    "name": "Invisible Walls",
+    "number": 335,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/335_ENG.png"
+  },
+  {
+    "name": "Last Chance",
+    "number": 336,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/336_ENG.png",
+    "text": "<b>Reaction:</b> Play this during an Attack action that would take a friendly fighter out of action. Roll a defence dice. If the result would not normally be a success for this fighter, ignore the damage from that Attack action on this fighter"
+  },
+  {
+    "name": "Legacy",
+    "number": 337,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/337_ENG.png",
+    "text": "<b>Reaction:</b> Play this after an Attack action or ploy that takes a friendly fighter out of action. Choose one of their universal upgrades and give it to an adjacent friendly fighter"
+  },
+  {
+    "name": "Lethal Strike",
+    "number": 338,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/338_ENG.png"
+  },
+  {
+    "name": "Mighty Swing",
+    "number": 339,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/339_ENG-Mighty-Swing.png",
+    "text": "Your first Attack action with a Range characteristic of 1 in the next activation targets all adjacent enemy fighters. Roll for each"
+  },
+  {
+    "name": "Mischievous Spirits",
+    "number": 340,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/340_ENG.png"
+  },
+  {
+    "name": "Misdirection",
+    "number": 341,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/341_ENG-Misdirection.png",
+    "text": "<b>Reaction:</b> Play this when a friendly fighter is chosen by a ploy. Choose another friendly fighter that could be chosen by that ploy. That fighter is chosen instead"
+  },
+  {
+    "name": "Momentary Madness",
+    "number": 342,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/342_ENG.png",
+    "text": "Choose an enemy fighter and roll an attack dice. If you roll a [Hammer] or [Critical Hit] make an Attack action with them as if they were a friendly fighter. Fighters do not provide support for this Attack action (in attack or defence)"
+  },
+  {
+    "name": "My Turn",
+    "number": 343,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/343_ENG.png"
+  },
+  {
+    "name": "No Time",
+    "number": 344,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/344_ENG.png",
+    "text": "No more power cards can be played until after the next activation"
+  },
+  {
+    "name": "On Your Feet",
+    "number": 345,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/345_ENG-On-Your-Feet.png",
+    "text": "<b>Reaction:</b> Play this during an Attack action or ploy that would take a friendly fighter out of action, when there is a friendly fighter adjacent to them. Roll a defence dice. On a roll of [Shield] or [Critical Hit] the fighter does not suffer damage and is not taken out of action"
+  },
+  {
+    "name": "Parry",
+    "number": 346,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/346_ENG-Parry.png",
+    "text": "The first time one of your fighters is targeted in the next activation, roll an extra defence dice. When counting your successes, ignore one of the defence dice"
+  },
+  {
+    "name": "Quick Thinker",
+    "number": 347,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/347_ENG.png"
+  },
+  {
+    "name": "Ready for Action",
+    "number": 348,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/348_ENG.png",
+    "text": "<b>Reaction:</b> Play this after you upgrade a fighter in an action phase. They can make a Move or Attack action"
+  },
+  {
+    "name": "Rebound",
+    "number": 349,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/349_ENG.png",
+    "text": "<b>Reaction:</b> Play this during an enemy Attack action that would succeed. Roll a defence dice. On a roll of [Dodge] or [Critical Hit] the attacker suffers the damage, rather than the target, and neither fighter is driven back"
+  },
+  {
+    "name": "Reflected Injury",
+    "number": 350,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/350_ENG.png"
+  },
+  {
+    "name": "Rethink Strategy",
+    "number": 351,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/351_ENG.png",
+    "text": "Discard any number of objective cards and draw that number of objective cards"
+  },
+  {
+    "name": "Sacrificial Pawn",
+    "number": 352,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/352_ENG.png",
+    "text": "Choose a friendly fighter. If they are taken out of action in the next activation, you gain a glory point"
+  },
+  {
+    "name": "Scavenge",
+    "number": 353,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/353_ENG-Scavenge.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that takes an adjacent enemy fighter with an upgrade out of action. Gain an additional glory point"
+  },
+  {
+    "name": "Second Wind",
+    "number": 354,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/354_ENG.png"
+  },
+  {
+    "name": "Shardfall",
+    "number": 355,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/355_ENG-Shardfall.png",
+    "text": "Place a Shardfall token in an unoccupied hex. That hex is blocked until the end of the phase"
+  },
+  {
+    "name": "Shardgale",
+    "number": 356,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/356_ENG.png"
+  },
+  {
+    "name": "Shattering Terrain",
+    "number": 357,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/357_ENG-Shattering-Terrain.png",
+    "text": "Any fighters that make a Move action, are pushed or are driven back in the next activation suffer 1 damage"
+  },
+  {
+    "name": "Shattershard",
+    "number": 358,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/358_ENG.png",
+    "text": "Choose an enemy fighter, and choose one of their upgrades. Roll an attack dice. On a roll of [Hammer] or [Critical Hit] that upgrade is discarded"
+  },
+  {
+    "name": "Shifting Shards",
+    "number": 359,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/359_ENG-Shifting-Shards.png",
+    "text": "Move an unheld objective one hex. You cannot move it into a hex that already contains an objective"
+  },
+  {
+    "name": "Sidestep",
+    "number": 360,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/360_ENG-Sidestep.png",
+    "text": "Choose a friendly fighter and push them one hex"
+  },
+  {
+    "name": "Spectral Wings",
+    "number": 361,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/361_ENG.png"
+  },
+  {
+    "name": "Spoils of Battle",
+    "number": 362,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/362_ENG.png",
+    "text": "Play an upgrade card. This doesn't cost a glory point"
+  },
+  {
+    "name": "Sprint",
+    "number": 363,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/363_ENG-Sprint.png",
+    "text": "Double the move characteristic of the first friendly fighter to make a Move action in the next activation. They may not make a Charge action. Once they have moved, they cannot be activated again in this phase"
+  },
+  {
+    "name": "Stumble",
+    "number": 364,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/364_ENG-Stumble.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action drives an enemy fighter back. They are driven back an additional hex in the same direction"
+  },
+  {
+    "name": "Tainted Vitality",
+    "number": 365,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/365_ENG.png"
+  },
+  {
+    "name": "Tantalising Prize",
+    "number": 366,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/366_ENG.png",
+    "text": "The first friendly fighter to take a Move action in the next activation can move up to an additional two hexes if they end their move on an objective"
+  },
+  {
+    "name": "Teamwork",
+    "number": 367,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/367_ENG.png"
+  },
+  {
+    "name": "Time Trap",
+    "number": 368,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/368_ENG-Time-Trap.png",
+    "text": "Choose a fighter. They can take an action. Skip your next activation (you cannot play this card after your fourth activation)"
+  },
+  {
+    "name": "Trap",
+    "number": 369,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/369_ENG.png",
+    "text": "<b>Reaction:</b> Play this during a friendly fighter's Attack action that drives an enemy fighter back. The enemy fighter suffers 1 damage"
+  },
+  {
+    "name": "Triumphant Roar",
+    "number": 370,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/370_ENG-Triumphant-Roar.png",
+    "text": "<b>Reaction:</b> Play this after a friendly fighter's Attack action that takes an enemy fighter out of action. You can push each enemy fighter adjacent to the friendly fighter one hex"
+  },
+  {
+    "name": "Trust to Luck",
+    "number": 371,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/371_ENG-Trust-to-Luck.png",
+    "text": "Discard any number of power cards and draw up to that number of power cards from your deck"
+  },
+  {
+    "name": "Twist the Knife",
+    "number": 372,
+    "faction": "Universal",
+    "type": "Ploy",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/372_ENG.png"
+  },
+  {
+    "name": "A Destiny to Meet",
+    "number": 373,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/373_ENG.png"
+  },
+  {
+    "name": "Acrobatic",
+    "number": 374,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/374_ENG.png",
+    "text": "If this fighter has a [Dodge] Defence characteristic or has a [Shield] Defence characteristic but is on Guard, roll an extra defence dice when they are the target of an Attack action"
+  },
+  {
+    "name": "Army of One",
+    "number": 375,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/375_ENG-Army-of-One.png",
+    "text": "If this fighter is the last friendly fighter on the battlefield, they have +1 Defence and all of their Attack actions have +1 Dice"
+  },
+  {
+    "name": "Awakened Weapon",
+    "number": 376,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/376_ENG.png",
+    "text": "You can re-roll one attack dice each time this fighter makes an Attack action"
+  },
+  {
+    "name": "Blessed Armour",
+    "number": 377,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/377_ENG-Blessed-Armour.png",
+    "text": "When you roll a [Critical Hit] for this fighter when they are targetted by an Attack action, remove one wound token from them before any damage is dealt"
+  },
+  {
+    "name": "Concealed Weapon",
+    "number": 378,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/378_ENG.png"
+  },
+  {
+    "name": "Coordinated Attack",
+    "number": 379,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/379_ENG-Coordinated-Attack.png",
+    "text": "[Weapon][Hex] 1 [Sword] 2 [Damage] 2[/Weapon] When making this Attack action, roll an extra attack dice for each other friendly figther adjacent to the target"
+  },
+  {
+    "name": "Cunning Duellist",
+    "number": 380,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/380_ENG-Cunning-Duellist.png",
+    "text": "<b>Reaction:</b> During this fighter's Attack action that succeeds against an adjacent enemy fighter, instead of driving the target back you can switch the two fighters' places"
+  },
+  {
+    "name": "Cursed Artefact",
+    "number": 381,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/381_ENG-Cursed-Artefact.png",
+    "text": "+1 Defense, -1 Wounds"
+  },
+  {
+    "name": "Daemonic Weapon",
+    "number": 382,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/382_ENG-Daemonic-Weapon.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 3[/Weapon] Each time this fighter makes this Attack action, they first suffer 1 damage"
+  },
+  {
+    "name": "Dark Darts",
+    "number": 383,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/383_ENG.png"
+  },
+  {
+    "name": "Deathly Fortune",
+    "number": 384,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/384_ENG.png"
+  },
+  {
+    "name": "Disengage",
+    "number": 385,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/385_ENG-Disengage.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 1[/Weapon] <b>Reaction:</b> After this Attack action, if it is successful, you can push this fighter one hex"
+  },
+  {
+    "name": "Ethereal Shield",
+    "number": 386,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/386_ENG.png",
+    "text": "This fighter's Defence characteristic changes to [Shield]"
+  },
+  {
+    "name": "Flickering Image",
+    "number": 387,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/387_ENG-Flickering-Image.png",
+    "text": "<b>Reaction:</b> After an Attack action made by this fighter that scores a critical hit, you can push them up to two hexes"
+  },
+  {
+    "name": "Ghostblade",
+    "number": 388,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/388_ENG.png"
+  },
+  {
+    "name": "Great Fortitude",
+    "number": 389,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/389_ENG-Great-Fortitude.png",
+    "text": "+1 Wounds"
+  },
+  {
+    "name": "Great Speed",
+    "number": 390,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/390_ENG-Great-Speed.png",
+    "text": "+1 Move"
+  },
+  {
+    "name": "Great Strength",
+    "number": 391,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/391_ENG-Great-Strength.png",
+    "text": "+1 Damage to all Attack actions with a Range of 1 or 2"
+  },
+  {
+    "name": "Headlong Charge",
+    "number": 392,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/392_ENG.png",
+    "text": "When this fighter makes a Charge action, increase their Move characteristic by 1 until the end of the activation"
+  },
+  {
+    "name": "Helpful Whispers",
+    "number": 393,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/393_ENG-Helpful-Whispers.png",
+    "text": "If this fighter has no adjacent friendly fighters, rolls of [Single Support] are a success when they make an Attack action"
+  },
+  {
+    "name": "Heroslayer",
+    "number": 394,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/394_ENG.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 1 [Damage] 4[/Weapon]"
+  },
+  {
+    "name": "Incredible Strength",
+    "number": 395,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/395_ENG.png"
+  },
+  {
+    "name": "Katophrane's Belt [Relic]",
+    "number": 396,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/396_ENG-Katophranes-Belt-Relic.png",
+    "text": "If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities."
+  },
+  {
+    "name": "Katophrane's Boots [Relic]",
+    "number": 397,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/397_ENG.png"
+  },
+  {
+    "name": "Katophrane's Gloves [Relic]",
+    "number": 398,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/398_ENG.png"
+  },
+  {
+    "name": "Katophrane's Hood [Relic]",
+    "number": 399,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/399_ENG.png",
+    "text": "If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities."
+  },
+  {
+    "name": "Katophrane's Locket [Relic]",
+    "number": 400,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/400_ENG.png",
+    "text": "If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities."
+  },
+  {
+    "name": "Katophrane's Plate [Relic]",
+    "number": 401,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/401_ENG-Katophranes-Plate-Relic.png",
+    "text": "If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities."
+  },
+  {
+    "name": "Legendary Swiftness",
+    "number": 402,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/402_ENG-Legendary-Swiftness.png",
+    "text": "+1 Move"
+  },
+  {
+    "name": "Light Armour",
+    "number": 403,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/403_ENG.png",
+    "text": "Rolls of [Critical Hit] on a defence dice are no longer a success for this fighter. Roll an extra attack dice when this fighter make an Attack action"
+  },
+  {
+    "name": "Light-footed",
+    "number": 404,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/404_ENG.png",
+    "text": "<b>Reaction:</b> During an Attack action that could drive this fighter back (whether or not your opponent chose to), you can instead push them one hex"
+  },
+  {
+    "name": "Low Blow",
+    "number": 405,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/405_ENG-Low-Blow.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 1[/Weapon] Both [Sword]and [Hammer] symbols are successes for this Attack action"
+  },
+  {
+    "name": "Opportunist",
+    "number": 406,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/406_ENG.png"
+  },
+  {
+    "name": "Regeneration",
+    "number": 407,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/407_ENG.png"
+  },
+  {
+    "name": "Second-in-command",
+    "number": 408,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/408_ENG.png",
+    "text": "If your warband's leader is out of action, this fighter is considered to be a leader. While this fighter is on the battlefield, opponents cannot score objectives for having taken your leader out of action"
+  },
+  {
+    "name": "Shadeglass Axe",
+    "number": 409,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/409_ENG.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 2[/Weapon] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage\n[Weapon][Hex] 3 [Hammer] 2 [Damage] 2[/Weapon] After a fighter makes this Attack action, discard this upgrade. On a critical hit, this Attack action has +1 Damage"
+  },
+  {
+    "name": "Shadeglass Dagger",
+    "number": 410,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/410_ENG.png"
+  },
+  {
+    "name": "Shadeglass Darts",
+    "number": 411,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/411_ENG-Shadeglass-Darts.png",
+    "text": "[Weapon][Hex] 3 [Sword] 3 [Damage] 1[/Weapon] On a critical hit, this Attack action has +1 Damage"
+  },
+  {
+    "name": "Shadeglass Hammer",
+    "number": 412,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/412_ENG.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 2 [Damage] 3[/Weapon] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage"
+  },
+  {
+    "name": "Shadeglass Spear",
+    "number": 413,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/413_ENG.png"
+  },
+  {
+    "name": "Shadeglass Sword",
+    "number": 414,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/414_ENG-Shadeglass-Sword.png",
+    "text": "[Weapon][Hex] 1 [Hammer] 3 [Damage] 2[/Weapon] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage"
+  },
+  {
+    "name": "Shadestep",
+    "number": 415,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/415_ENG.png",
+    "text": "This fighter can move through other fighters during a Move action, but must end their move in an empty hex"
+  },
+  {
+    "name": "Shardcaller",
+    "number": 416,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/416_ENG-Shardcaller.png",
+    "text": "At the beginning of each action phase, you can switch an objective held by this fighter with any other objective"
+  },
+  {
+    "name": "Shifting Image",
+    "number": 417,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/417_ENG.png",
+    "text": "<b>Reaction:</b> After any Attack action in which you roll a [Critical Hit] for this fighter (with an attack or defence dice), you can push this fighter one hex"
+  },
+  {
+    "name": "Sixth Sense",
+    "number": 418,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/418_ENG-Sixth-Sense.png",
+    "text": "Your opponent can never consider a [Double Support] as a success for Attack actions that target this fighter"
+  },
+  {
+    "name": "Solid Stance",
+    "number": 419,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/419_ENG.png",
+    "text": "This fighter can only be driven back by a critical hit"
+  },
+  {
+    "name": "Soultrap",
+    "number": 420,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/420_ENG-Soultrap.png",
+    "text": "<b>Reaction:</b> During an Attack action or ploy that takes this fighter out of action, roll a defence dice. If you roll a [Shield] or [Critical Hit] they suffer no damage and are not taken out of action, and you discard this upgrade"
+  },
+  {
+    "name": "Sprinter",
+    "number": 421,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/421_ENG.png",
+    "text": "+1 Move"
+  },
+  {
+    "name": "Superior Agility",
+    "number": 422,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/422_ENG.png"
+  },
+  {
+    "name": "Swift Strike",
+    "number": 423,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/423_ENG-Swift-Strike.png",
+    "text": "[Weapon][Hex] 1 [Sword] 3 [Damage] 1[/Weapon] <b>Reaction:</b> Before making this Attack action, push this fighter one hex"
+  },
+  {
+    "name": "Tethered Spirit",
+    "number": 424,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/424_ENG.png"
+  },
+  {
+    "name": "The Blazing Key",
+    "number": 425,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/425_ENG.png",
+    "text": "If this fighter is holding objective 3 in the third end phase, score 2 glory points"
+  },
+  {
+    "name": "The Dazzling Key",
+    "number": 426,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Sepulchral Guard Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/426_ENG-The-Dazzling-Key.png",
+    "text": "If this fighter is holding objective 4 in the third end phase, score 2 glory points"
+  },
+  {
+    "name": "The Formless Key",
+    "number": 427,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/427_ENG.png"
+  },
+  {
+    "name": "The Fractured Key",
+    "number": 428,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/428_ENG.png",
+    "text": "If this fighter is holding objective 5 in the third end phase, score 2 glory points"
+  },
+  {
+    "name": "The Hallowed Key",
+    "number": 429,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/429_ENG.png"
+  },
+  {
+    "name": "The Shadowed Key",
+    "number": 430,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Ironskull's Boyz Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/430_ENG-The-Shadowed-Key.png",
+    "text": "If this fighter is holding objective 2 in the third end phase, score 2 glory points"
+  },
+  {
+    "name": "Total Offence",
+    "number": 431,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Core Set",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/431_ENG-Total-Offence.png",
+    "text": "You can roll two additional attack dice when this fighter takes an Attack action, though not when this fighter takes a Charge action. If you do so, this fighter cannot be activated again this phase"
+  },
+  {
+    "name": "Trickster's Charm",
+    "number": 432,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Spiteclaw's Swarm Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/432_ENG.png",
+    "text": "If this fighter is on the battlefield, you can play a single ploy card at the beginning of each action phase"
+  },
+  {
+    "name": "Trusted Defender",
+    "number": 433,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/433_ENG.png"
+  },
+  {
+    "name": "Unparalleled Strike",
+    "number": 434,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/434_ENG.png"
+  },
+  {
+    "name": "Vampiric Weapon",
+    "number": 435,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Chosen Axes Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/435_ENG.png",
+    "text": "When this fighter takes an enemy fighter out of action, remove one wound token from this figther"
+  },
+  {
+    "name": "War Cry",
+    "number": 436,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "Magore's Fiends Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/436_ENG.png"
+  },
+  {
+    "name": "Zealous Defender",
+    "number": 437,
+    "faction": "Universal",
+    "type": "Upgrade",
+    "location": "The Farstriders Expansion",
+    "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/437_ENG.png"
+  }
+]
