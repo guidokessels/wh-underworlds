@@ -1,0 +1,14 @@
+{
+  "name": "wh-underworlds",
+  "version": "1.0.0",
+  "main": "make-docs.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scrape.js",
+    "build": "node make-docs.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.2.0",
+    "write-yaml": "^1.0.0"
+  }
+}
