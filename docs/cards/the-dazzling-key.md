@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![The Dazzling Key](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/426_ENG-The-Dazzling-Key.png)
 
@@ -5,8 +8,8 @@ If this fighter is holding objective 4 in the third end phase, score 2 glory poi
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Sepulchral Guard Expansion](/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
 
 Card number: 426

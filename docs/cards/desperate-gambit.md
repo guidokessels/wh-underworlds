@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Desperate Gambit](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/317_ENG.png)
 
@@ -5,8 +8,8 @@ When resolving the first Attack action in the next activation, you and your oppo
 
 Type: Ploy
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Spiteclaw's Swarm Expansion](/locations/spiteclaws-swarm-expansion.md)
+Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion.md)
 
 Card number: 317

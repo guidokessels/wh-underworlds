@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Fuelled by Fury](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/327_ENG.png)
 
@@ -5,8 +8,8 @@ You can re-roll any attack dice for the first friendly fighter's Attack action i
 
 Type: Ploy
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [The Chosen Axes Expansion](/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
 
 Card number: 327

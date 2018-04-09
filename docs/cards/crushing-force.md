@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Crushing Force](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/250_ENG-Crushing-Force.png)
 
@@ -5,8 +8,8 @@ Score this immediately if a friendly fighter makes a successful attack that deal
 
 Type: Objective
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Sepulchral Guard Expansion](/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
 
 Card number: 250

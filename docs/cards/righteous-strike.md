@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Righteous Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/057_ENG-Righteous-Strike.png)
 
@@ -5,8 +8,8 @@
 
 Type: Upgrade
 
-Faction: [Steelheart’s Champions](/factions/steelhearts-champions.md)
+Faction: [Steelheart’s Champions](https://guidokessels.github.io/wh-underworlds/factions/steelhearts-champions.md)
 
-Found in: [Core Set](/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
 
 Card number: 57

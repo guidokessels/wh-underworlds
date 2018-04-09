@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Healing Potion](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/330_ENG-Healing-Potion.png)
 
@@ -5,8 +8,8 @@ Choose a friendly fighter and roll a defence dice. On a roll of [Shield] or [Cri
 
 Type: Ploy
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Core Set](/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
 
 Card number: 330

@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Deafening Bellow](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/099_ENG-Deafening-Bellow.png)
 
@@ -5,8 +8,8 @@ Choose an enemy fighter adjacent to one of your fighters. Push that fighter one 
 
 Type: Ploy
 
-Faction: [Ironskull’s Boyz](/factions/ironskulls-boyz.md)
+Faction: [Ironskull’s Boyz](https://guidokessels.github.io/wh-underworlds/factions/ironskulls-boyz.md)
 
-Found in: [Ironskull's Boyz Expansion](/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
 
 Card number: 99

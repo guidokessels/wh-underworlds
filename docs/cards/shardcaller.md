@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Shardcaller](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/416_ENG-Shardcaller.png)
 
@@ -5,8 +8,8 @@ At the beginning of each action phase, you can switch an objective held by this 
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Ironskull's Boyz Expansion](/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
 
 Card number: 416

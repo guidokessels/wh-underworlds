@@ -1,12 +1,15 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![War Cry](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/436_ENG.png)
 
-undefined
+
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Magore's Fiends Expansion](/locations/magores-fiends-expansion.md)
+Found in: [Magore's Fiends Expansion](https://guidokessels.github.io/wh-underworlds/locations/magores-fiends-expansion.md)
 
 Card number: 436

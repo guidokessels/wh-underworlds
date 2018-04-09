@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Conquest](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/247_ENG-Conquest.png)
 
@@ -5,8 +8,8 @@ Score this in the third end phase if all of your surviving fighters are <i>in yo
 
 Type: Objective
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Core Set](/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
 
 Card number: 247

@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Army of One](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/375_ENG-Army-of-One.png)
 
@@ -5,8 +8,8 @@ If this fighter is the last friendly fighter on the battlefield, they have +1 De
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Sepulchral Guard Expansion](/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
 
 Card number: 375

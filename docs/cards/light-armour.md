@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Light Armour](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/403_ENG.png)
 
@@ -5,8 +8,8 @@ Rolls of [Critical Hit] on a defence dice are no longer a success for this fight
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [The Chosen Axes Expansion](/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
 
 Card number: 403

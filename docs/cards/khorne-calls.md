@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Khorne Calls](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/017_ENG-Khorne-Calls.png)
 
@@ -5,8 +8,8 @@ Roll one extra attack dice for your first Attack action in the next activation
 
 Type: Ploy
 
-Faction: [Garrek’s Reavers](/factions/garreks-reavers.md)
+Faction: [Garrek’s Reavers](https://guidokessels.github.io/wh-underworlds/factions/garreks-reavers.md)
 
-Found in: [Core Set](/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
 
 Card number: 17

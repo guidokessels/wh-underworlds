@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Bone Shrapnel](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/068_ENG-Bone-Shrapnel.png)
 
@@ -5,8 +8,8 @@
 
 Type: Ploy
 
-Faction: [Sepulchral Guard](/factions/sepulchral-guard.md)
+Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard.md)
 
-Found in: [Sepulchral Guard Expansion](/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
 
 Card number: 68

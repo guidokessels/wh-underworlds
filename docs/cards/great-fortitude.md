@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Great Fortitude](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/389_ENG-Great-Fortitude.png)
 
@@ -5,8 +8,8 @@
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Core Set](/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
 
 Card number: 389

@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Arm's Length](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/146_ENG.png)
 
@@ -5,8 +8,8 @@ Score this immediately if your warband takes an enemy fighter out of action whil
 
 Type: Objective
 
-Faction: [Spiteclaw's Swarm](/factions/spiteclaws-swarm.md)
+Faction: [Spiteclaw's Swarm](https://guidokessels.github.io/wh-underworlds/factions/spiteclaws-swarm.md)
 
-Found in: [Spiteclaw's Swarm Expansion](/locations/spiteclaws-swarm-expansion.md)
+Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion.md)
 
 Card number: 146

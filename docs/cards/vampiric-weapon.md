@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Vampiric Weapon](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/435_ENG.png)
 
@@ -5,8 +8,8 @@ When this fighter takes an enemy fighter out of action, remove one wound token f
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [The Chosen Axes Expansion](/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
 
 Card number: 435

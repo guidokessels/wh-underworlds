@@ -1,43 +1,54 @@
-const fs = require("fs");
+const fs = require('fs');
+const URL = 'https://guidokessels.github.io/wh-underworlds';
 
 const readJSONFile = filename => {
-  const contents = fs.readFileSync(__dirname + "/" + filename);
+  const contents = fs.readFileSync(__dirname + '/' + filename);
   return JSON.parse(contents);
+};
+
+const makeHeader = () => {
+  return `# [Warhammer: Underworlds Companion](${URL})
+`;
+};
+
+const addHeader = md => {
+  return `${makeHeader()}
+  
+${md}`;
 };
 
 const makeFilename = str =>
   str
     .toLowerCase()
-    .replace(/ /g, "-")
-    .replace(/[^A-Za-z0-9-]/, "");
+    .replace(/ /g, '-')
+    .replace(/[^A-Za-z0-9-]/, '');
 
-const makeMdFilename = str => makeFilename(str) + ".md";
+const makeMdFilename = str => makeFilename(str) + '.md';
 
 const writeMdFile = (filename, contents) => {
   console.log(`Writing ${filename}`);
-  fs.writeFileSync(__dirname + "/docs/" + filename, contents);
+  fs.writeFileSync(__dirname + '/docs/' + filename, contents);
 };
 
 const findCards = (stack, filter) => stack.filter(filter);
-const findLocation = (stack, location) =>
-  findCards(stack, d => d.location === location);
-const findFaction = (stack, faction) =>
-  findCards(stack, d => d.faction === faction);
-const findPloys = stack => findCards(stack, d => d.type === "Ploy");
-const findUpgrades = stack => findCards(stack, d => d.type === "Upgrade");
-const findObjectives = stack => findCards(stack, d => d.type === "Objective");
+const findLocation = (stack, location) => findCards(stack, d => d.location === location);
+const findFaction = (stack, faction) => findCards(stack, d => d.faction === faction);
+const findPloys = stack => findCards(stack, d => d.type === 'Ploy');
+const findUpgrades = stack => findCards(stack, d => d.type === 'Upgrade');
+const findObjectives = stack => findCards(stack, d => d.type === 'Objective');
 
-const createCardLink = card =>
-  `[${card.name}](/cards/${makeMdFilename(card.name)})`;
-const createLocationLink = location => `[${location}](${"/locations/" + makeMdFilename(location)})`
-const createFactionLink = faction => `[${faction}](${"/factions/" + makeMdFilename(faction)})`
+const createCardLink = card => `[${card.name}](${URL}/cards/${makeMdFilename(card.name)})`;
+const createLocationLink = location =>
+  `[${location}](${URL}${'/locations/' + makeMdFilename(location)})`;
+const createFactionLink = faction =>
+  `[${faction}](${URL}${'/factions/' + makeMdFilename(faction)})`;
 
 const createCard = item => ({
   item,
   md: `
 ![${item.name}](${item.image})
 
-${item.text}
+${item.text || ''}
 
 Type: ${item.type}
 
@@ -46,7 +57,7 @@ Faction: ${createFactionLink(item.faction)}
 Found in: ${createLocationLink(item.location)}
 
 Card number: ${item.number}
-`
+`,
 });
 
 const createLocation = (item, cards) => {
@@ -60,14 +71,14 @@ const createLocation = (item, cards) => {
 # ${item}
 
 ## Ploys
-${ploys.map(createCardLink).join("<br />")}
+${ploys.map(createCardLink).join('<br />')}
 
 ## Upgrades
-${upgrades.map(createCardLink).join("<br />")}
+${upgrades.map(createCardLink).join('<br />')}
 
 ## Objectives
-${objectives.map(createCardLink).join("<br />")}
-`
+${objectives.map(createCardLink).join('<br />')}
+`,
   };
 };
 
@@ -82,42 +93,40 @@ const createFaction = (item, cards) => {
 # ${item}
 
 ## Ploys
-${ploys.map(createCardLink).join("<br />")}
+${ploys.map(createCardLink).join('<br />')}
 
 ## Upgrades
-${upgrades.map(createCardLink).join("<br />")}
+${upgrades.map(createCardLink).join('<br />')}
 
 ## Objectives
-${objectives.map(createCardLink).join("<br />")}
-`
+${objectives.map(createCardLink).join('<br />')}
+`,
   };
 };
 
-const cards = readJSONFile("data/cards.json");
-const factions = readJSONFile("data/factions.json");
-const locations = readJSONFile("data/locations.json");
+const cards = readJSONFile('data/cards.json');
+const factions = readJSONFile('data/factions.json');
+const locations = readJSONFile('data/locations.json');
 
-let home = `# Warhammer: Underworlds Companion
-
-## Browse by set
+let home = `## Browse by set
 `;
 
 cards.map(createCard).forEach(({ item, md }) => {
   const filename = `cards/${makeMdFilename(item.name)}`;
-  writeMdFile(filename, md);
+  writeMdFile(filename, addHeader(md));
 });
 
 locations.map(l => createLocation(l, cards)).forEach(({ item, md }) => {
   const filename = `locations/${makeMdFilename(item)}`;
-  writeMdFile(filename, md);
+  writeMdFile(filename, addHeader(md));
 
   home = `${home}
-  - ${createLocationLink(item)}`
+  - ${createLocationLink(item)}`;
 });
 
 factions.map(l => createFaction(l, cards)).forEach(({ item, md }) => {
   const filename = `factions/${makeMdFilename(item)}`;
-  writeMdFile(filename, md);
+  writeMdFile(filename, addHeader(md));
 });
 
-writeMdFile('index.md', home);
+writeMdFile('index.md', addHeader(home));

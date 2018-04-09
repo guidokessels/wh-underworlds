@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![We Shall Not Be Moved](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/135_ENG.png)
 
@@ -5,8 +8,8 @@ Friendly fighters holding objectives cannot be driven back by the first Attack a
 
 Type: Ploy
 
-Faction: [The Chosen Axes](/factions/the-chosen-axes.md)
+Faction: [The Chosen Axes](https://guidokessels.github.io/wh-underworlds/factions/the-chosen-axes.md)
 
-Found in: [The Chosen Axes Expansion](/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
 
 Card number: 135

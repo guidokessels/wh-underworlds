@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![No Remorse](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/277_ENG.png)
 
@@ -5,8 +8,8 @@ Score this immediately if one of your fighters takes an enemy fighter out of act
 
 Type: Objective
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [The Chosen Axes Expansion](/locations/the-chosen-axes-expansion.md)
+Found in: [The Chosen Axes Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-chosen-axes-expansion.md)
 
 Card number: 277

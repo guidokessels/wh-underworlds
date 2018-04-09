@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Divide and Conquer](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/255_ENG-Divide-and-Conquer.png)
 
@@ -5,8 +8,8 @@ Score this is an end phase if each player has at least one fighter in their own 
 
 Type: Objective
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Ironskull's Boyz Expansion](/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
 
 Card number: 255

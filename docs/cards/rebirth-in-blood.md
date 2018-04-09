@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Rebirth in Blood](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/018_ENG-Rebirth-in-Blood.png)
 
@@ -5,8 +8,8 @@
 
 Type: Ploy
 
-Faction: [Garrek’s Reavers](/factions/garreks-reavers.md)
+Faction: [Garrek’s Reavers](https://guidokessels.github.io/wh-underworlds/factions/garreks-reavers.md)
 
-Found in: [Core Set](/locations/core-set.md)
+Found in: [Core Set](https://guidokessels.github.io/wh-underworlds/locations/core-set.md)
 
 Card number: 18

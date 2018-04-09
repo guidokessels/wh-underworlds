@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Cover Ground](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/249_ENG.png)
 
@@ -5,8 +8,8 @@ Score this immediately if a friendly fighter makes a Move action of six or more 
 
 Type: Objective
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Spiteclaw's Swarm Expansion](/locations/spiteclaws-swarm-expansion.md)
+Found in: [Spiteclaw's Swarm Expansion](https://guidokessels.github.io/wh-underworlds/locations/spiteclaws-swarm-expansion.md)
 
 Card number: 249

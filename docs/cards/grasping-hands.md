@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Grasping Hands](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/072_ENG-Grasping-Hands.png)
 
@@ -5,8 +8,8 @@ Reduce the Move characteristic of the first fighter to be activated in the next 
 
 Type: Ploy
 
-Faction: [Sepulchral Guard](/factions/sepulchral-guard.md)
+Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard.md)
 
-Found in: [Sepulchral Guard Expansion](/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
 
 Card number: 72

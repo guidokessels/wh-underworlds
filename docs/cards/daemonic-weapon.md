@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Daemonic Weapon](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/382_ENG-Daemonic-Weapon.png)
 
@@ -5,8 +8,8 @@
 
 Type: Upgrade
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Ironskull's Boyz Expansion](/locations/ironskulls-boyz-expansion.md)
+Found in: [Ironskull's Boyz Expansion](https://guidokessels.github.io/wh-underworlds/locations/ironskulls-boyz-expansion.md)
 
 Card number: 382

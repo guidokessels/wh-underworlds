@@ -1,12 +1,15 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![Grapple](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/328_ENG.png)
 
-undefined
+
 
 Type: Ploy
 
-Faction: [Universal](/factions/universal.md)
+Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/universal.md)
 
-Found in: [Magore's Fiends Expansion](/locations/magores-fiends-expansion.md)
+Found in: [Magore's Fiends Expansion](https://guidokessels.github.io/wh-underworlds/locations/magores-fiends-expansion.md)
 
 Card number: 328

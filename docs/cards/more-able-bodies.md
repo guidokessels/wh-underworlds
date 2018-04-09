@@ -1,3 +1,6 @@
+# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+
+  
 
 ![More Able Bodies](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/063_ENG-More-Able-Bodies.png)
 
@@ -5,8 +8,8 @@ Score this in an end phase if your warband took two or more enemy fighters out o
 
 Type: Objective
 
-Faction: [Sepulchral Guard](/factions/sepulchral-guard.md)
+Faction: [Sepulchral Guard](https://guidokessels.github.io/wh-underworlds/factions/sepulchral-guard.md)
 
-Found in: [Sepulchral Guard Expansion](/locations/sepulchral-guard-expansion.md)
+Found in: [Sepulchral Guard Expansion](https://guidokessels.github.io/wh-underworlds/locations/sepulchral-guard-expansion.md)
 
 Card number: 63
