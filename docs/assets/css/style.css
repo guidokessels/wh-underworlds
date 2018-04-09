@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
-/* Disable header added by GH Pages */
-.markdown-body>*:first-child {
-  display: none;
+/* Disable the header that's added by GH Pages */
+.markdown-body > h1:first-child {
+  display: none !important;
+}
+
+.markdown-body img {
+  max-width: 280px !important;
 }
