@@ -5,10 +5,36 @@
 # Magore's Fiends
 
 ## Ploys
-[Blood Frenzy](https://guidokessels.github.io/wh-underworlds/cards/blood-frenzy)<br />[Bloodslick Ground](https://guidokessels.github.io/wh-underworlds/cards/bloodslick-ground)<br />[Bloody Retribution](https://guidokessels.github.io/wh-underworlds/cards/bloody-retribution)<br />[Continue the Slaughter](https://guidokessels.github.io/wh-underworlds/cards/continue-the-slaughter)<br />[Daemonic Resilience](https://guidokessels.github.io/wh-underworlds/cards/daemonic-resilience)<br />[Fountain of Gore](https://guidokessels.github.io/wh-underworlds/cards/fountain-of-gore)<br />[Furious Inspiration](https://guidokessels.github.io/wh-underworlds/cards/furious-inspiration)<br />[Glory to Khorne](https://guidokessels.github.io/wh-underworlds/cards/glory-to-khorne)<br />[Horrifying Howl](https://guidokessels.github.io/wh-underworlds/cards/horrifying-howl)<br />[To the Victor, the Spoils](https://guidokessels.github.io/wh-underworlds/cards/to-the-victor-the-spoils)
+* [Blood Frenzy](https://guidokessels.github.io/wh-underworlds/cards/blood-frenzy)
+* [Bloodslick Ground](https://guidokessels.github.io/wh-underworlds/cards/bloodslick-ground)
+* [Bloody Retribution](https://guidokessels.github.io/wh-underworlds/cards/bloody-retribution)
+* [Continue the Slaughter](https://guidokessels.github.io/wh-underworlds/cards/continue-the-slaughter)
+* [Daemonic Resilience](https://guidokessels.github.io/wh-underworlds/cards/daemonic-resilience)
+* [Fountain of Gore](https://guidokessels.github.io/wh-underworlds/cards/fountain-of-gore)
+* [Furious Inspiration](https://guidokessels.github.io/wh-underworlds/cards/furious-inspiration)
+* [Glory to Khorne](https://guidokessels.github.io/wh-underworlds/cards/glory-to-khorne)
+* [Horrifying Howl](https://guidokessels.github.io/wh-underworlds/cards/horrifying-howl)
+* [To the Victor, the Spoils](https://guidokessels.github.io/wh-underworlds/cards/to-the-victor-the-spoils)
 
 ## Upgrades
-[Brutal Charge](https://guidokessels.github.io/wh-underworlds/cards/brutal-charge)<br />[Daemonic Maw](https://guidokessels.github.io/wh-underworlds/cards/daemonic-maw)<br />[Furious Charge](https://guidokessels.github.io/wh-underworlds/cards/furious-charge)<br />[No Respite](https://guidokessels.github.io/wh-underworlds/cards/no-respite)<br />[Predatory Leap](https://guidokessels.github.io/wh-underworlds/cards/predatory-leap)<br />[Rage-fuelled Attacks](https://guidokessels.github.io/wh-underworlds/cards/rage-fuelled-attacks)<br />[Shake About](https://guidokessels.github.io/wh-underworlds/cards/shake-about)<br />[Trophy Hunter](https://guidokessels.github.io/wh-underworlds/cards/trophy-hunter)<br />[Unshakeable](https://guidokessels.github.io/wh-underworlds/cards/unshakeable)<br />[Wrathful Blows](https://guidokessels.github.io/wh-underworlds/cards/wrathful-blows)
+* [Brutal Charge](https://guidokessels.github.io/wh-underworlds/cards/brutal-charge)
+* [Daemonic Maw](https://guidokessels.github.io/wh-underworlds/cards/daemonic-maw)
+* [Furious Charge](https://guidokessels.github.io/wh-underworlds/cards/furious-charge)
+* [No Respite](https://guidokessels.github.io/wh-underworlds/cards/no-respite)
+* [Predatory Leap](https://guidokessels.github.io/wh-underworlds/cards/predatory-leap)
+* [Rage-fuelled Attacks](https://guidokessels.github.io/wh-underworlds/cards/rage-fuelled-attacks)
+* [Shake About](https://guidokessels.github.io/wh-underworlds/cards/shake-about)
+* [Trophy Hunter](https://guidokessels.github.io/wh-underworlds/cards/trophy-hunter)
+* [Unshakeable](https://guidokessels.github.io/wh-underworlds/cards/unshakeable)
+* [Wrathful Blows](https://guidokessels.github.io/wh-underworlds/cards/wrathful-blows)
 
 ## Objectives
-[All the Better to Slay Them](https://guidokessels.github.io/wh-underworlds/cards/all-the-better-to-slay-them)<br />[Bane of Champions](https://guidokessels.github.io/wh-underworlds/cards/bane-of-champions)<br />[Bloody Annihilation](https://guidokessels.github.io/wh-underworlds/cards/bloody-annihilation)<br />[Khorne Sees Us](https://guidokessels.github.io/wh-underworlds/cards/khorne-sees-us)<br />[Kill! Kill Again!](https://guidokessels.github.io/wh-underworlds/cards/kill-kill-again!)<br />[No Escape](https://guidokessels.github.io/wh-underworlds/cards/no-escape)<br />[Rivers of Blood](https://guidokessels.github.io/wh-underworlds/cards/rivers-of-blood)<br />[Save the Best](https://guidokessels.github.io/wh-underworlds/cards/save-the-best)<br />[Show of Strength](https://guidokessels.github.io/wh-underworlds/cards/show-of-strength)
+* [All the Better to Slay Them](https://guidokessels.github.io/wh-underworlds/cards/all-the-better-to-slay-them)
+* [Bane of Champions](https://guidokessels.github.io/wh-underworlds/cards/bane-of-champions)
+* [Bloody Annihilation](https://guidokessels.github.io/wh-underworlds/cards/bloody-annihilation)
+* [Khorne Sees Us](https://guidokessels.github.io/wh-underworlds/cards/khorne-sees-us)
+* [Kill! Kill Again!](https://guidokessels.github.io/wh-underworlds/cards/kill-kill-again!)
+* [No Escape](https://guidokessels.github.io/wh-underworlds/cards/no-escape)
+* [Rivers of Blood](https://guidokessels.github.io/wh-underworlds/cards/rivers-of-blood)
+* [Save the Best](https://guidokessels.github.io/wh-underworlds/cards/save-the-best)
+* [Show of Strength](https://guidokessels.github.io/wh-underworlds/cards/show-of-strength)

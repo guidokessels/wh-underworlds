@@ -6,6 +6,12 @@ const readJSONFile = filename => {
   return JSON.parse(contents);
 };
 
+const nameSort = ({name: a}, {name: b}) => {
+  if (a > b) return 1;
+  if (b > a) return -1;
+  return 0;
+};
+
 const makeHeader = () => {
   return `# [Warhammer: Underworlds Companion](${URL})
 `;
@@ -65,7 +71,7 @@ Card number: ${item.number}
 });
 
 const createLocation = (item, cards) => {
-  const cardsInLocation = findLocation(cards, item);
+  const cardsInLocation = findLocation(cards, item).sort(nameSort);
   const ploys = findPloys(cardsInLocation);
   const upgrades = findUpgrades(cardsInLocation);
   const objectives = findObjectives(cardsInLocation);
@@ -75,19 +81,22 @@ const createLocation = (item, cards) => {
 # ${item}
 
 ## Ploys
-${ploys.map(createCardLink).join('<br />')}
+${ploys.map(d => `* ` + createCardLink(d)).join(`
+`)}
 
 ## Upgrades
-${upgrades.map(createCardLink).join('<br />')}
+${upgrades.map(d => `* ` + createCardLink(d)).join(`
+`)}
 
 ## Objectives
-${objectives.map(createCardLink).join('<br />')}
+${objectives.map(d => `* ` + createCardLink(d)).join(`
+`)}
 `,
   };
 };
 
 const createFaction = (item, cards) => {
-  const cardsInFaction = findFaction(cards, item);
+  const cardsInFaction = findFaction(cards, item).sort(nameSort);
   const ploys = findPloys(cardsInFaction);
   const upgrades = findUpgrades(cardsInFaction);
   const objectives = findObjectives(cardsInFaction);
@@ -97,13 +106,16 @@ const createFaction = (item, cards) => {
 # ${item}
 
 ## Ploys
-${ploys.map(createCardLink).join('<br />')}
+${ploys.map(d => `* ` + createCardLink(d)).join(`
+`)}
 
 ## Upgrades
-${upgrades.map(createCardLink).join('<br />')}
+${upgrades.map(d => `* ` + createCardLink(d)).join(`
+`)}
 
 ## Objectives
-${objectives.map(createCardLink).join('<br />')}
+${objectives.map(d => `* ` + createCardLink(d)).join(`
+`)}
 `,
   };
 };

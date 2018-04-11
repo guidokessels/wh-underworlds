@@ -5,10 +5,36 @@
 # Spiteclaw's Swarm
 
 ## Ploys
-[Aversion to Death](https://guidokessels.github.io/wh-underworlds/cards/aversion-to-death)<br />[Frenzied Stabbing](https://guidokessels.github.io/wh-underworlds/cards/frenzied-stabbing)<br />[Heightened Caution](https://guidokessels.github.io/wh-underworlds/cards/heightened-caution)<br />[Momentary Boldness](https://guidokessels.github.io/wh-underworlds/cards/momentary-boldness)<br />[Musk of Fear](https://guidokessels.github.io/wh-underworlds/cards/musk-of-fear)<br />[Nervous Scrabbling](https://guidokessels.github.io/wh-underworlds/cards/nervous-scrabbling)<br />[Scratching in the Shadows](https://guidokessels.github.io/wh-underworlds/cards/scratching-in-the-shadows)<br />[Skaven Courage](https://guidokessels.github.io/wh-underworlds/cards/skaven-courage)<br />[Sudden Skittering](https://guidokessels.github.io/wh-underworlds/cards/sudden-skittering)<br />[There Are Always More](https://guidokessels.github.io/wh-underworlds/cards/there-are-always-more)
+* [Aversion to Death](https://guidokessels.github.io/wh-underworlds/cards/aversion-to-death)
+* [Frenzied Stabbing](https://guidokessels.github.io/wh-underworlds/cards/frenzied-stabbing)
+* [Heightened Caution](https://guidokessels.github.io/wh-underworlds/cards/heightened-caution)
+* [Momentary Boldness](https://guidokessels.github.io/wh-underworlds/cards/momentary-boldness)
+* [Musk of Fear](https://guidokessels.github.io/wh-underworlds/cards/musk-of-fear)
+* [Nervous Scrabbling](https://guidokessels.github.io/wh-underworlds/cards/nervous-scrabbling)
+* [Scratching in the Shadows](https://guidokessels.github.io/wh-underworlds/cards/scratching-in-the-shadows)
+* [Skaven Courage](https://guidokessels.github.io/wh-underworlds/cards/skaven-courage)
+* [Sudden Skittering](https://guidokessels.github.io/wh-underworlds/cards/sudden-skittering)
+* [There Are Always More](https://guidokessels.github.io/wh-underworlds/cards/there-are-always-more)
 
 ## Upgrades
-[Black Hunger](https://guidokessels.github.io/wh-underworlds/cards/black-hunger)<br />[Bodyguard for a Price](https://guidokessels.github.io/wh-underworlds/cards/bodyguard-for-a-price)<br />[Expendable](https://guidokessels.github.io/wh-underworlds/cards/expendable)<br />[Festering Blade](https://guidokessels.github.io/wh-underworlds/cards/festering-blade)<br />[Flee!](https://guidokessels.github.io/wh-underworlds/cards/flee)<br />[Skitter-scurry](https://guidokessels.github.io/wh-underworlds/cards/skitter-scurry)<br />[Sneaky Stab-stab](https://guidokessels.github.io/wh-underworlds/cards/sneaky-stab-stab)<br />[Swarm of Rats](https://guidokessels.github.io/wh-underworlds/cards/swarm-of-rats)<br />[Throwing Stars](https://guidokessels.github.io/wh-underworlds/cards/throwing-stars)<br />[Whirling Halberd](https://guidokessels.github.io/wh-underworlds/cards/whirling-halberd)
+* [Black Hunger](https://guidokessels.github.io/wh-underworlds/cards/black-hunger)
+* [Bodyguard for a Price](https://guidokessels.github.io/wh-underworlds/cards/bodyguard-for-a-price)
+* [Expendable](https://guidokessels.github.io/wh-underworlds/cards/expendable)
+* [Festering Blade](https://guidokessels.github.io/wh-underworlds/cards/festering-blade)
+* [Flee!](https://guidokessels.github.io/wh-underworlds/cards/flee)
+* [Skitter-scurry](https://guidokessels.github.io/wh-underworlds/cards/skitter-scurry)
+* [Sneaky Stab-stab](https://guidokessels.github.io/wh-underworlds/cards/sneaky-stab-stab)
+* [Swarm of Rats](https://guidokessels.github.io/wh-underworlds/cards/swarm-of-rats)
+* [Throwing Stars](https://guidokessels.github.io/wh-underworlds/cards/throwing-stars)
+* [Whirling Halberd](https://guidokessels.github.io/wh-underworlds/cards/whirling-halberd)
 
 ## Objectives
-[Arm's Length](https://guidokessels.github.io/wh-underworlds/cards/arms-length)<br />[Brilliant, Brilliant!](https://guidokessels.github.io/wh-underworlds/cards/brilliant-brilliant!)<br />[Feast-feast](https://guidokessels.github.io/wh-underworlds/cards/feast-feast)<br />[Honed Survival Instincts](https://guidokessels.github.io/wh-underworlds/cards/honed-survival-instincts)<br />[Leading from the Back](https://guidokessels.github.io/wh-underworlds/cards/leading-from-the-back)<br />[Live to Fight Another Day](https://guidokessels.github.io/wh-underworlds/cards/live-to-fight-another-day)<br />[Lives are Cheap](https://guidokessels.github.io/wh-underworlds/cards/lives-are-cheap)<br />[Numberless Swarm](https://guidokessels.github.io/wh-underworlds/cards/numberless-swarm)<br />[Skritch is the Greatest, Yes-yes](https://guidokessels.github.io/wh-underworlds/cards/skritch-is-the-greatest-yes-yes)
+* [Arm's Length](https://guidokessels.github.io/wh-underworlds/cards/arms-length)
+* [Brilliant, Brilliant!](https://guidokessels.github.io/wh-underworlds/cards/brilliant-brilliant!)
+* [Feast-feast](https://guidokessels.github.io/wh-underworlds/cards/feast-feast)
+* [Honed Survival Instincts](https://guidokessels.github.io/wh-underworlds/cards/honed-survival-instincts)
+* [Leading from the Back](https://guidokessels.github.io/wh-underworlds/cards/leading-from-the-back)
+* [Live to Fight Another Day](https://guidokessels.github.io/wh-underworlds/cards/live-to-fight-another-day)
+* [Lives are Cheap](https://guidokessels.github.io/wh-underworlds/cards/lives-are-cheap)
+* [Numberless Swarm](https://guidokessels.github.io/wh-underworlds/cards/numberless-swarm)
+* [Skritch is the Greatest, Yes-yes](https://guidokessels.github.io/wh-underworlds/cards/skritch-is-the-greatest-yes-yes)
