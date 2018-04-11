@@ -4,7 +4,7 @@
 
 ![Pure Carnage](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/285_ENG.png)
 
-
+Score this in the third end phase if <i>seven or more</i> fighters are out of action
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![Heroic Feat](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/262_ENG.png)
 
-
+Score this immediately if a friendly fighter's Attack action succeeds when their target has two or more supporting fighters more then the attacker
 
 Type: Objective
 

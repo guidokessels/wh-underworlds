@@ -4,7 +4,7 @@
 
 ![War of Attrition](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/307_ENG.png)
 
-
+Score this in an end phase if the same number of fighters (at least one) from each warband are out of action
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![Swift Stride](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/231_ENG.png)
 
-
++2 Move
 
 Type: Upgrade
 

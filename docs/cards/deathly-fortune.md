@@ -4,7 +4,7 @@
 
 ![Deathly Fortune](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/384_ENG.png)
 
-
+-2 Move, +2 Wounds
 
 Type: Upgrade
 

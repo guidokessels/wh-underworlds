@@ -4,7 +4,7 @@
 
 ![Warning Cry](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/222_ENG.png)
 
-
+Choose a friendly fighter and put them on Guard
 
 Type: Ploy
 

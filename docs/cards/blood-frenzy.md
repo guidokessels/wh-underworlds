@@ -4,7 +4,7 @@
 
 ![Blood Frenzy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/184_ENG.png)
 
-
+<b>Reaction:</b> Play this after an Attack action or ploy that takes a fighter out of action. Roll one extra attack dice for the first Attack action in the next activation. Both [Hammer] and [Sword] are successes for that Attack action
 
 Type: Ploy
 

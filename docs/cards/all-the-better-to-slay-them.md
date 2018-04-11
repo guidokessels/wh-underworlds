@@ -4,7 +4,7 @@
 
 ![All the Better to Slay Them](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/175_ENG.png)
 
-
+Score this immediately if all friendly fighters (at least three) are adjacent to a different enemy fighter
 
 Type: Objective
 

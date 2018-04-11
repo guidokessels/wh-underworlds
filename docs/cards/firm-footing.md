@@ -4,7 +4,7 @@
 
 ![Firm Footing](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/214_ENG.png)
 
-
+Roll an extra defence dice for friendly fighters holding objectives in the next activation
 
 Type: Ploy
 

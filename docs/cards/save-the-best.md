@@ -4,7 +4,7 @@
 
 ![Save the Best](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/182_ENG.png)
 
-
+Score this in an end phase if an enemy leader is the only surviving enemy fighter
 
 Type: Objective
 

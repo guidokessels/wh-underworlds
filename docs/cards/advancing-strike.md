@@ -4,7 +4,7 @@
 
 ![Advancing Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/234_ENG.png)
 
-
+Score this immediately when your warband takes an enemy fighter standing in enemy territory out of action
 
 Type: Objective
 

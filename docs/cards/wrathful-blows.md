@@ -4,7 +4,7 @@
 
 ![Wrathful Blows](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/203_ENG.png)
 
-
+All of this fighter's Attack actions have +1 Dice
 
 Type: Upgrade
 

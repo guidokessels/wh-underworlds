@@ -4,7 +4,7 @@
 
 ![Rivers of Blood](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/181_ENG.png)
 
-
+Score this in an end phase if all surviving fighters (at least four) are wounded
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![War Cry](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/436_ENG.png)
 
-
+When this fighter makes a Charge action, their Attack actions gain Knockback 1 for that activation
 
 Type: Upgrade
 

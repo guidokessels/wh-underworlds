@@ -4,7 +4,7 @@
 
 ![Furious Inspiration](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/190_ENG.png)
 
-
+Choose a friendly fighter. The become Inspired
 
 Type: Ploy
 

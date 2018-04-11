@@ -4,7 +4,7 @@
 
 ![Concerted Attack](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/246_ENG.png)
 
-
+Score this immediately if three or more friendly fighters made an Attack action against the same enemy fighter in this phase
 
 Type: Objective
 

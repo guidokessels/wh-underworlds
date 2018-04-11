@@ -4,7 +4,7 @@
 
 ![Masterstroke](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/273_ENG.png)
 
-
+Score this immediately if an enemy fighter is taken out of action by an Attack action made as a Reaction by your warband or a Reaction made by your warband that causes damage
 
 Type: Objective
 

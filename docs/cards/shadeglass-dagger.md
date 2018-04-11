@@ -4,7 +4,7 @@
 
 ![Shadeglass Dagger](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/410_ENG.png)
 
-
+<div class="whu-weapon">[Hex] 1 [Sword] 3 [Damage] 3</div><br /> When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage
 
 Type: Upgrade
 

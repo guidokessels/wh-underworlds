@@ -4,7 +4,7 @@
 
 ![Flee!](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/169_ENG.png)
 
-<b>Action:</b> This fighter and one adjacent friendly fighter can make a Move action. Both figthers must end their move further away from all enemy fighters
+<b>Action:</b> This fighter and one adjacent friendly fighter can make a Move action. Both fighters must end their move further away from all enemy fighters
 
 Type: Upgrade
 

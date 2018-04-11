@@ -4,7 +4,7 @@
 
 ![Bloody Retribution](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/186_ENG.png)
 
-
+<b>Reaction:</b> Play this after an Attack action that takes a friendly fighter out of action. A friendly fighter adjacent to the attacker makes an Attack action against that fighter
 
 Type: Ploy
 

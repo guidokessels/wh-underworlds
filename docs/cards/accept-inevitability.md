@@ -4,7 +4,7 @@
 
 ![Accept Inevitability](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/233_ENG.png)
 
-
+Score this in the third end phase if all of your fighters are out of action
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![My Turn](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/343_ENG.png)
 
-
+<b>Reaction:</b> Play this after an Attack action or ploy that damage a friendly fighter. Push them up to one hex and make an Attack action with them
 
 Type: Ploy
 

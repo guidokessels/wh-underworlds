@@ -4,7 +4,7 @@
 
 ![Fearless](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/258_ENG.png)
 
-
+Score this in an end phase if there are at least three enemy fighters adjacent to the same friendly fighter
 
 Type: Objective
 

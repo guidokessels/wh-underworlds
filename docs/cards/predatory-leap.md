@@ -4,7 +4,7 @@
 
 ![Predatory Leap](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/198_ENG.png)
 
-
+When this fighter makes a Charge action they can move through other fighters, but their move must end in an empty hex
 
 Type: Upgrade
 

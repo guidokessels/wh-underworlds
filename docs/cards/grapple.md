@@ -4,7 +4,7 @@
 
 ![Grapple](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/328_ENG.png)
 
-
+<b>Reaction:</b> Play this after an adjacent enemy fighter makes an Attack action that drives a friendly fighter back. Push the attacker into the hex the friendly fighter was driven back from
 
 Type: Ploy
 

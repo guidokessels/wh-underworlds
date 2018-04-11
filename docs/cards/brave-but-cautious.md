@@ -4,7 +4,7 @@
 
 ![Brave but Cautious](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/205_ENG.png)
 
-
+Score this in an end phase if you have at least one surviving fighter and none of your fighters suffered any damage in the preceding action phase
 
 Type: Objective
 

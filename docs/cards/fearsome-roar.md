@@ -4,7 +4,7 @@
 
 ![Fearsome Roar](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/213_ENG.png)
 
-
+Choose an enemy fighter adjacent to a friendly fighter. Push them one hex
 
 Type: Ploy
 

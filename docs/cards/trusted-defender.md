@@ -4,7 +4,7 @@
 
 ![Trusted Defender](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/433_ENG.png)
 
-
+You can re-roll one defence dice for this fighter when they are the target of an Attack action
 
 Type: Upgrade
 

@@ -4,7 +4,7 @@
 
 ![Rage-fuelled Attacks](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/199_ENG.png)
 
-
+This fighter's Attack actions with a Range of 1 or 2 have +1 Damage
 
 Type: Upgrade
 

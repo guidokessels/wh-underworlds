@@ -4,7 +4,7 @@
 
 ![Defensive Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/252_ENG.png)
 
-
+Score this immediately when your warband takes an enemy fighter standing in your territory out of action
 
 Type: Objective
 

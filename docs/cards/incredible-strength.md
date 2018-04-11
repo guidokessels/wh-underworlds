@@ -4,7 +4,7 @@
 
 ![Incredible Strength](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/395_ENG.png)
 
-
++1 Damage to all Attack actions with a Range of 1 or 2
 
 Type: Upgrade
 

@@ -4,7 +4,7 @@
 
 ![Regeneration](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/407_ENG.png)
 
-
+At the beginning of each action phase, remove up to one wound token from this fighter
 
 Type: Upgrade
 

@@ -4,7 +4,7 @@
 
 ![Lightning Blow](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/215_ENG.png)
 
-
+The first Attack action in the next activation has +1 Damage
 
 Type: Ploy
 

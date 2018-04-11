@@ -4,7 +4,7 @@
 
 ![Furious Charge](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/196_ENG.png)
 
-
+When this fighter makes a Charge action both [Hammer] and [Sword] are successes
 
 Type: Upgrade
 

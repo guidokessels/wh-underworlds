@@ -4,7 +4,7 @@
 
 ![Eternal Supremacy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/207_ENG.png)
 
-
+Score this in an end phase if you hold three of more objectives
 
 Type: Objective
 

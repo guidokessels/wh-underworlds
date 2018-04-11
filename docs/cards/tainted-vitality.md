@@ -4,7 +4,7 @@
 
 ![Tainted Vitality](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/365_ENG.png)
 
-
+Remove one wound token from each fighter who has at least one wound token
 
 Type: Ploy
 

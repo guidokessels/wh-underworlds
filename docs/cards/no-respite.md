@@ -4,7 +4,7 @@
 
 ![No Respite](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/197_ENG.png)
 
-
+<b>Reaction:</b> During an Attack action or ploy that will take this fighter out of action, you can make an Attack action with them
 
 Type: Upgrade
 

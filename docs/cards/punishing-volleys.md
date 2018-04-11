@@ -4,7 +4,7 @@
 
 ![Punishing Volleys](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/210_ENG.png)
 
-
+Score this in an end phase if you made at least three successful Boltstorm Pistol or Overcharged Boltstorm Pistol Attack actions in the preceding action phase
 
 Type: Objective
 

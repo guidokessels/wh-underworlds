@@ -4,7 +4,7 @@
 
 ![Reflected Injury](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/350_ENG.png)
 
-
+Choose a friendly fighter with at least one wound token, and an adjacent enemy fighter. The enemy fighter suffers 1 damage
 
 Type: Ploy
 

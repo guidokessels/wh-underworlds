@@ -4,7 +4,7 @@
 
 ![Second Wind](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/354_ENG.png)
 
-
+Choose a friendly fighter that made a Charge action this phase. In the next activation, they can be activated as if they had Moved rather than Charged
 
 Type: Ploy
 

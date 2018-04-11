@@ -4,7 +4,7 @@
 
 ![Bloodslick Ground](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/185_ENG.png)
 
-
+In the next activation, enemy fighters have -2 Move
 
 Type: Ploy
 

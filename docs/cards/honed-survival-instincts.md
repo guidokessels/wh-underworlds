@@ -4,7 +4,7 @@
 
 ![Honed Survival Instincts](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/149_ENG.png)
 
-Score this in an end phase if no friendly figther was taken out of action in the preceding action phase
+Score this in an end phase if no friendly fighter was taken out of action in the preceding action phase
 
 Type: Objective
 

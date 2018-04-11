@@ -4,7 +4,7 @@
 
 ![Rangers, Advance](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/218_ENG.png)
 
-
+Choose two friendly fighters and push them one hex
 
 Type: Ploy
 

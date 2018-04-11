@@ -4,7 +4,7 @@
 
 ![Show of Strength](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/183_ENG.png)
 
-
+Score this immediately if your leader takes an enemy fighter out of action
 
 Type: Objective
 

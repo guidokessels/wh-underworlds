@@ -4,7 +4,7 @@
 
 ![Zealous Defender](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/437_ENG.png)
 
-
+This fighter is considered to have an additional supporting fighter while they are holding an objective
 
 Type: Upgrade
 

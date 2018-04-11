@@ -4,7 +4,7 @@
 
 ![Improvisation](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/333_ENG.png)
 
-
+Discard all power cards in your hand and draw three power cards
 
 Type: Ploy
 

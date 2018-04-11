@@ -4,7 +4,7 @@
 
 ![Continue the Slaughter](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/187_ENG.png)
 
-
+<b>Reaction:</b> Play this after an Attack action or ploy that takes a fighter out of action. The first Attack action in the next activation has +1 Damage
 
 Type: Ploy
 

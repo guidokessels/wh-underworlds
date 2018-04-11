@@ -4,7 +4,7 @@
 
 ![Lightning Stride](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/216_ENG.png)
 
-
+Double the Move characteristic of the first friendly fighter to make a Move action in the next activation. They may not make a Charge action. Once they have moved, they cannot be activated again this phase
 
 Type: Ploy
 

@@ -4,7 +4,7 @@
 
 ![Kill! Kill Again!](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/179_ENG.png)
 
-
+Score this in an end phase if at least two fighters from each warband are out of action
 
 Type: Objective
 

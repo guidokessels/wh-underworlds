@@ -4,7 +4,7 @@
 
 ![Balance of Power](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/238_ENG.png)
 
-
+Score this immediately when making an Attack action if both the attacker and the target have two supporting fighters
 
 Type: Objective
 

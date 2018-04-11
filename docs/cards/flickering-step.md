@@ -4,7 +4,7 @@
 
 ![Flickering Step](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/323_ENG.png)
 
-
+Roll eight dice. Choose a friendly fighter and push them up to a number of hexes equal to the number of [Critical Hit] rolled
 
 Type: Ploy
 

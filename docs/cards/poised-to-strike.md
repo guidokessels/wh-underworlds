@@ -4,7 +4,7 @@
 
 ![Poised to Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/283_ENG.png)
 
-
+Score this in an end phase if at least three friendly fighters are adjacent to the same enemy fighter
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![Aetheric Step](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/223_ENG.png)
 
-
+This fighter can move through other fighters during a Move action, but must end their move in an empty hex
 
 Type: Upgrade
 

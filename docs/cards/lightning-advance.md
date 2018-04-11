@@ -4,7 +4,7 @@
 
 ![Lightning Advance](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/208_ENG.png)
 
-
+Score this in an end phase if all of your surviving fighters (at least two) are in enemy territory
 
 Type: Objective
 

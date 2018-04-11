@@ -4,7 +4,7 @@
 
 ![Chosen Champion](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/244_ENG.png)
 
-
+Score this in an end phase if a surviving friendly fighter has three or more upgrades
 
 Type: Objective
 

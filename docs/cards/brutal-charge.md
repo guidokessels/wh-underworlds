@@ -4,7 +4,7 @@
 
 ![Brutal Charge](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/194_ENG.png)
 
-
+Roll an extra attack dice when this fighter makes a Charge action
 
 Type: Upgrade
 

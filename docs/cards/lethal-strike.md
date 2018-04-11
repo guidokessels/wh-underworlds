@@ -4,7 +4,7 @@
 
 ![Lethal Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/338_ENG.png)
 
-
+If the first Attack action in the next activation is a critical hit, double its Damage characteristic for that Attack action
 
 Type: Ploy
 

@@ -4,7 +4,7 @@
 
 ![Unstoppable](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/304_ENG.png)
 
-
+Score this immediately if one of your fighters makes a successful Attack action against an enemy fighter on Guard
 
 Type: Objective
 

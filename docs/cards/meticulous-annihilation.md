@@ -4,7 +4,7 @@
 
 ![Meticulous Annihilation](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/209_ENG.png)
 
-
+Score this in an end phase if <i>all enemy fighters</i> have been taken out of action
 
 Type: Objective
 

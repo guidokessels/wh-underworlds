@@ -4,7 +4,7 @@
 
 ![Khorne Sees Us](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/178_ENG.png)
 
-
+Score this immediately if your warband takes two or more enemy fighters out of action in a phase
 
 Type: Objective
 

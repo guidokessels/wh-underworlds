@@ -4,7 +4,7 @@
 
 ![Horrifying Howl](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/192_ENG.png)
 
-
+Choose an enemy fighter that is adjacent to a friendly fighter and push them up to two hexes
 
 Type: Ploy
 

@@ -2,9 +2,9 @@
 
   
 
-![Complete Victory](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/245_ENG.png)
+![Skirting Danger](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/289_ENG.png)
 
-Score this in the third end phase if none of your fighters are out of action
+Score this in an end phase if all surviving friendly fighters (at least two) are on edge hexes
 
 Type: Objective
 
@@ -12,4 +12,4 @@ Faction: [Universal](https://guidokessels.github.io/wh-underworlds/factions/univ
 
 Found in: [The Farstriders Expansion](https://guidokessels.github.io/wh-underworlds/locations/the-farstriders-expansion)
 
-Card number: 245
+Card number: 289

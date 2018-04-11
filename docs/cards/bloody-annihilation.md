@@ -4,7 +4,7 @@
 
 ![Bloody Annihilation](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/177_ENG.png)
 
-
+Score this in an end phase <i>if all enemy fighters have been taken out of action</i>
 
 Type: Objective
 

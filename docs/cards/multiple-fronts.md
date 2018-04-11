@@ -4,7 +4,7 @@
 
 ![Multiple Fronts](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/275_ENG.png)
 
-
+Score this in an end phase if your warband dealt damage to three or more enemy fighters in the preceding action phase
 
 Type: Objective
 

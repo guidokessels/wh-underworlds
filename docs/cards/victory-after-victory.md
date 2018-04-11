@@ -4,7 +4,7 @@
 
 ![Victory After Victory](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/306_ENG.png)
 
-
+Score this in an end phase if you scored three or more other objective cards in this round
 
 Type: Objective
 

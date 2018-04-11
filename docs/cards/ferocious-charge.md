@@ -4,7 +4,7 @@
 
 ![Ferocious Charge](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/119_ENG.png)
 
-Score this immediately if a friendly fighter takes an enemy figther out of action with a Charge action
+Score this immediately if a friendly fighter takes an enemy fighter out of action with a Charge action
 
 Type: Objective
 

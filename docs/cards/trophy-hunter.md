@@ -4,7 +4,7 @@
 
 ![Trophy Hunter](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/201_ENG.png)
 
-
+When this fighter takes an enemy fighter out of action, gain 1 additional glory point
 
 Type: Upgrade
 

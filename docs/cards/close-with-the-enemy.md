@@ -4,7 +4,7 @@
 
 ![Close with the Enemy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/206_ENG.png)
 
-
+Score this in an end phase if three friendly fighters are adjacent to enemy fighters
 
 Type: Objective
 

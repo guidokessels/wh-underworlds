@@ -4,7 +4,7 @@
 
 ![Massive Assault](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/271_ENG.png)
 
-
+Score this immediately if your fighters deal 7 or more damage in an action phase (damage in excess of a fighter's Wounds characteristic is included)
 
 Type: Objective
 

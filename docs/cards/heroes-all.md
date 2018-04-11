@@ -4,7 +4,7 @@
 
 ![Heroes All](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/261_ENG.png)
 
-
+Score this in an end phase if all of your surviving fighters (at least three) are Inspired
 
 Type: Objective
 

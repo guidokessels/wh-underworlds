@@ -4,7 +4,7 @@
 
 ![Daemonic Resilience](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/188_ENG.png)
 
-
+The first friendly fighter who suffers any amount of damage in the next activation only suffers 1 damage
 
 Type: Ploy
 

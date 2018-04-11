@@ -4,7 +4,7 @@
 
 ![Piercing Stare](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/130_ENG.png)
 
-Choose an enemy fighter. They cannot make an Attack action of a Charge action in the next activation
+Choose an enemy fighter. They cannot make an Attack action or a Charge action in the next activation
 
 Type: Ploy
 

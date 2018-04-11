@@ -4,7 +4,7 @@
 
 ![Inspiration Strikes](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/334_ENG.png)
 
-
+Choose a friendly fighter. They become Inspired
 
 Type: Ploy
 

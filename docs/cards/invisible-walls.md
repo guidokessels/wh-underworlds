@@ -4,7 +4,7 @@
 
 ![Invisible Walls](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/335_ENG.png)
 
-
+All fighters' Move characteristics are reduced to 1 for the next activation
 
 Type: Ploy
 

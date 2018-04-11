@@ -4,7 +4,7 @@
 
 ![A Destiny to Meet](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/373_ENG.png)
 
-
+If this fighter is not out of action at the end of the third action phase, gain 1 additional glory point
 
 Type: Upgrade
 

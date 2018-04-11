@@ -4,7 +4,7 @@
 
 ![Numberless Swarm](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/153_ENG.png)
 
-Score this in the third end phase if there are five friendly fighters on the battledfield
+Score this in the third end phase if there are five friendly fighters on the battlefield
 
 Type: Objective
 

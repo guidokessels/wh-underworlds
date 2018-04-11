@@ -4,7 +4,7 @@
 
 ![The Formless Key](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/427_ENG.png)
 
-
+If this fighter is holding an objective in the third end phase, score 1 glory point
 
 Type: Upgrade
 

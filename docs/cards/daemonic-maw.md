@@ -4,7 +4,7 @@
 
 ![Daemonic Maw](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/195_ENG.png)
 
-
+<div class="whu-weapon">[Hex] 1 [Sword] 2 [Damage] 3</div><br /> If this Attack action succeeds, remove one wound token from this fighter
 
 Type: Upgrade
 

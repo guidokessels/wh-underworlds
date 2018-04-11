@@ -4,7 +4,7 @@
 
 ![No Escape](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/180_ENG.png)
 
-
+Score this immediately if three or more of your fighters made a Charge action this phase
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![Bane of Champions](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/176_ENG.png)
 
-
+Score this immediately if Riptooth takes an enemy leader out of action
 
 Type: Objective
 

@@ -4,7 +4,7 @@
 
 ![Our Only Way Out](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/278_ENG.png)
 
-
+Score this in an end phase if you hold three or more objectives
 
 Type: Objective
 
