@@ -32,7 +32,7 @@ const scrapeUnderworldsDB = async page => {
 
       return Array.from(rows).reduce((aq, row) => {
         const number = getInt(row, ':nth-child(1)');
-        const text = getHTML(row, ':nth-child(5)');
+        const text = getHTML(row, 'td:nth-child(5)');
         const sanitized = text
           // Replace  <img src="img/shield.png" alt="Shield">
           // With     [Shield]
@@ -84,11 +84,6 @@ const scrapeCardsLibrary = async (page, cardTexts) => {
           const location = getText(row, classNames.CARD_LIST_ITEM_LOCATION);
           const image = getAttr(row, classNames.CARD_LIST_ITEM_IMAGE, 'src');
 
-          let debug = null;
-          if (name === 'Blood Rain') {
-            debug = row.innerHTML;
-          }
-
           cards.push({
             name,
             number,
@@ -96,8 +91,7 @@ const scrapeCardsLibrary = async (page, cardTexts) => {
             type,
             location,
             image,
-            text: cardTexts[number],
-            debug
+            text: cardTexts[number]
           });
         });
 
@@ -146,11 +140,11 @@ const scrapeCardsLibrary = async (page, cardTexts) => {
 async function start() {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-  console.log(page.viewport());
-  const watchDog = page.waitForFunction('window.innerWidth > 1900');
-  await page.setViewport({ width: 1920, height: 1080 });
-  await watchDog;
-  console.log(page.viewport())
+  // console.log(page.viewport());
+  // const watchDog = page.waitForFunction('window.innerWidth > 1900');
+  // await page.setViewport({ width: 1920, height: 1080 });
+  // await watchDog;
+  // console.log(page.viewport())
 
   await page.goto('https://www.underworldsdb.com/');
   const cardTexts = await scrapeUnderworldsDB(page);
