@@ -2,9 +2,11 @@
 title: Wicked Blade - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Wicked Blade
 
 ![Wicked Blade](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/029_ENG-Wicked-Blade.png)
 

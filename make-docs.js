@@ -14,7 +14,7 @@ const nameSort = ({ name: a }, { name: b }) => {
 };
 
 const makeHeader = () => {
-  return `# [${TITLE}](${URL})
+  return `### [${TITLE}](${URL})
 `;
 };
 
@@ -65,6 +65,8 @@ const createCardText = str => {
 const createCard = item => ({
   item,
   md: `
+# ${item.name}
+
 ![${item.name}](${item.image})
 
 ${createCardText(item.text || '')}

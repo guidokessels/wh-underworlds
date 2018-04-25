@@ -2,9 +2,11 @@
 title: Lightning Advance - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Lightning Advance
 
 ![Lightning Advance](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/208_ENG.png)
 

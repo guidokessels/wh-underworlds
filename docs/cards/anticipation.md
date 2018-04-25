@@ -2,9 +2,11 @@
 title: Anticipation - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Anticipation
 
 ![Anticipation](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/308_ENG-Anticipation.png)
 

@@ -2,9 +2,11 @@
 title: Assassinate - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Assassinate
 
 ![Assassinate](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/237_ENG.png)
 

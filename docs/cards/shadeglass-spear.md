@@ -2,9 +2,11 @@
 title: Shadeglass Spear - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Shadeglass Spear
 
 ![Shadeglass Spear](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/413_ENG.png)
 

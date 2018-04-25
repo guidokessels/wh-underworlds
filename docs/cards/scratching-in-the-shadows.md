@@ -2,9 +2,11 @@
 title: Scratching in the Shadows - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Scratching in the Shadows
 
 ![Scratching in the Shadows](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/161_ENG.png)
 

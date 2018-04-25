@@ -2,9 +2,11 @@
 title: Chosen Champion - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Chosen Champion
 
 ![Chosen Champion](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/244_ENG.png)
 

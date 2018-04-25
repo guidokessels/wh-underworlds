@@ -2,9 +2,11 @@
 title: Bloody Retribution - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Bloody Retribution
 
 ![Bloody Retribution](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/186_ENG.png)
 

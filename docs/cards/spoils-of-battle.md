@@ -2,9 +2,11 @@
 title: Spoils of Battle - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Spoils of Battle
 
 ![Spoils of Battle](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/362_ENG.png)
 

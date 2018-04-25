@@ -2,9 +2,11 @@
 title: Festering Blade - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Festering Blade
 
 ![Festering Blade](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/168_ENG.png)
 

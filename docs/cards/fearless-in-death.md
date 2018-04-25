@@ -2,9 +2,11 @@
 title: Fearless in Death - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Fearless in Death
 
 ![Fearless in Death](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/061_ENG-Fearless-in-Death.png)
 

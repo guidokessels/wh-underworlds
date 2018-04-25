@@ -2,9 +2,11 @@
 title: Quick Thinker - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Quick Thinker
 
 ![Quick Thinker](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/347_ENG.png)
 

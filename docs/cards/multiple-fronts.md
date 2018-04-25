@@ -2,9 +2,11 @@
 title: Multiple Fronts - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Multiple Fronts
 
 ![Multiple Fronts](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/275_ENG.png)
 

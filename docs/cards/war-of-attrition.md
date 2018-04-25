@@ -2,9 +2,11 @@
 title: War of Attrition - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# War of Attrition
 
 ![War of Attrition](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/307_ENG.png)
 

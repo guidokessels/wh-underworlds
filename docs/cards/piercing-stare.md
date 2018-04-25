@@ -2,9 +2,11 @@
 title: Piercing Stare - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Piercing Stare
 
 ![Piercing Stare](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/130_ENG.png)
 

@@ -2,9 +2,11 @@
 title: Blood Offering - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Blood Offering
 
 ![Blood Offering](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/010-ENG-Blood-Offering.png)
 

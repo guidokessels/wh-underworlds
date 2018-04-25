@@ -2,9 +2,11 @@
 title: Desperate Gambit - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Desperate Gambit
 
 ![Desperate Gambit](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/317_ENG.png)
 

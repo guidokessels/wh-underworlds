@@ -2,9 +2,11 @@
 title: Poised to Strike - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Poised to Strike
 
 ![Poised to Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/283_ENG.png)
 

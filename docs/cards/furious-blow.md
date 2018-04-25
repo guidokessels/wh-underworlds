@@ -2,9 +2,11 @@
 title: Furious Blow - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Furious Blow
 
 ![Furious Blow](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/226_ENG.png)
 

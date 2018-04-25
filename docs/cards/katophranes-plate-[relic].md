@@ -2,9 +2,11 @@
 title: Katophrane's Plate [Relic] - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Katophrane's Plate [Relic]
 
 ![Katophrane's Plate [Relic]](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/401_ENG-Katophranes-Plate-Relic.png)
 

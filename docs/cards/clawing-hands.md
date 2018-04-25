@@ -2,9 +2,11 @@
 title: Clawing Hands - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Clawing Hands
 
 ![Clawing Hands](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/070_ENG-Clawing-Hands.png)
 

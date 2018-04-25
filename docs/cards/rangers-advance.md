@@ -2,9 +2,11 @@
 title: Rangers, Advance - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Rangers, Advance
 
 ![Rangers, Advance](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/218_ENG.png)
 

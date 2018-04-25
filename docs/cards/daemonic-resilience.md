@@ -2,9 +2,11 @@
 title: Daemonic Resilience - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Daemonic Resilience
 
 ![Daemonic Resilience](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/188_ENG.png)
 

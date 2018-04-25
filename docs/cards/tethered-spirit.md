@@ -2,9 +2,11 @@
 title: Tethered Spirit - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Tethered Spirit
 
 ![Tethered Spirit](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/424_ENG.png)
 

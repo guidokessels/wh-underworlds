@@ -2,9 +2,11 @@
 title: Lightning Stride - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Lightning Stride
 
 ![Lightning Stride](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/216_ENG.png)
 

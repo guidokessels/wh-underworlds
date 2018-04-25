@@ -2,9 +2,11 @@
 title: Superior Tactician - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Superior Tactician
 
 ![Superior Tactician](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/291_ENG-Superior-Tactician.png)
 

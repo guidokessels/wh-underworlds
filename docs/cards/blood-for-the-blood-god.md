@@ -2,9 +2,11 @@
 title: Blood for the Blood God! - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Blood for the Blood God!
 
 ![Blood for the Blood God!](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/002_ENG-Blood-for-the-Blood-God.png)
 

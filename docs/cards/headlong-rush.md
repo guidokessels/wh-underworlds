@@ -2,9 +2,11 @@
 title: Headlong Rush - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Headlong Rush
 
 ![Headlong Rush](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/114_ENG-Headlong-Rush.png)
 

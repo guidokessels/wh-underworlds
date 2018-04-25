@@ -2,9 +2,11 @@
 title: A Worthy Skull - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# A Worthy Skull
 
 ![A Worthy Skull](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/001_ENG-A-Worthy-Skull.png)
 

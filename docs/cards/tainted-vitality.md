@@ -2,9 +2,11 @@
 title: Tainted Vitality - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Tainted Vitality
 
 ![Tainted Vitality](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/365_ENG.png)
 

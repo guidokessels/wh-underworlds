@@ -2,9 +2,11 @@
 title: Katophrane's Boots [Relic] - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Katophrane's Boots [Relic]
 
 ![Katophrane's Boots [Relic]](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/397_ENG.png)
 

@@ -2,9 +2,11 @@
 title: Katophrane's Belt [Relic] - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Katophrane's Belt [Relic]
 
 ![Katophrane's Belt [Relic]](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/396_ENG-Katophranes-Belt-Relic.png)
 

@@ -2,9 +2,11 @@
 title: A Claim Retaken - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# A Claim Retaken
 
 ![A Claim Retaken](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/117_ENG.png)
 

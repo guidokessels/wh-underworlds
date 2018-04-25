@@ -2,9 +2,11 @@
 title: Fury of the Lodge - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Fury of the Lodge
 
 ![Fury of the Lodge](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/121_ENG.png)
 

@@ -2,9 +2,11 @@
 title: Grim Cleave - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Grim Cleave
 
 ![Grim Cleave](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/084_ENG-Grim-Cleave.png)
 

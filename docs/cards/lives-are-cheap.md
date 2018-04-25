@@ -2,9 +2,11 @@
 title: Lives are Cheap - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Lives are Cheap
 
 ![Lives are Cheap](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/152_ENG.png)
 

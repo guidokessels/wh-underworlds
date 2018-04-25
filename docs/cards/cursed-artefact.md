@@ -2,9 +2,11 @@
 title: Cursed Artefact - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Cursed Artefact
 
 ![Cursed Artefact](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/381_ENG-Cursed-Artefact.png)
 

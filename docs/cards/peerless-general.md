@@ -2,9 +2,11 @@
 title: Peerless General - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Peerless General
 
 ![Peerless General](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/064_ENG-Peerless-General.png)
 

@@ -2,9 +2,11 @@
 title: Sigmar's Finest - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Sigmar's Finest
 
 ![Sigmar's Finest](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/212_ENG.png)
 

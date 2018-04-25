@@ -2,9 +2,11 @@
 title: Momentary Boldness - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Momentary Boldness
 
 ![Momentary Boldness](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/158_ENG.png)
 

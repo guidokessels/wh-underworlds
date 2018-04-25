@@ -84,6 +84,11 @@ const scrapeCardsLibrary = async (page, cardTexts) => {
           const location = getText(row, classNames.CARD_LIST_ITEM_LOCATION);
           const image = getAttr(row, classNames.CARD_LIST_ITEM_IMAGE, 'src');
 
+          let debug = null;
+          if (name === 'Blood Rain') {
+            debug = row.innerHTML;
+          }
+
           cards.push({
             name,
             number,
@@ -92,6 +97,7 @@ const scrapeCardsLibrary = async (page, cardTexts) => {
             location,
             image,
             text: cardTexts[number],
+            debug
           });
         });
 
@@ -138,8 +144,13 @@ const scrapeCardsLibrary = async (page, cardTexts) => {
 };
 
 async function start() {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
+  console.log(page.viewport());
+  const watchDog = page.waitForFunction('window.innerWidth > 1900');
+  await page.setViewport({ width: 1920, height: 1080 });
+  await watchDog;
+  console.log(page.viewport())
 
   await page.goto('https://www.underworldsdb.com/');
   const cardTexts = await scrapeUnderworldsDB(page);

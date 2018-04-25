@@ -2,9 +2,11 @@
 title: Spinning Strike - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Spinning Strike
 
 ![Spinning Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/230_ENG.png)
 

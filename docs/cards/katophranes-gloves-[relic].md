@@ -2,9 +2,11 @@
 title: Katophrane's Gloves [Relic] - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Katophrane's Gloves [Relic]
 
 ![Katophrane's Gloves [Relic]](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/398_ENG.png)
 

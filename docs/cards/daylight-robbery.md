@@ -2,9 +2,11 @@
 title: Daylight Robbery - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Daylight Robbery
 
 ![Daylight Robbery](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/315_ENG-Daylight-Robbery.png)
 

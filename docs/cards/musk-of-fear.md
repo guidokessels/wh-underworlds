@@ -2,9 +2,11 @@
 title: Musk of Fear - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Musk of Fear
 
 ![Musk of Fear](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/159_ENG.png)
 

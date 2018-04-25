@@ -2,9 +2,11 @@
 title: Slayers of Tyrants - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Slayers of Tyrants
 
 ![Slayers of Tyrants](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/038_ENG-Slayers-of-Tyrants.png)
 

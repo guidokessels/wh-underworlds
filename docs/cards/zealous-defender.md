@@ -2,9 +2,11 @@
 title: Zealous Defender - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Zealous Defender
 
 ![Zealous Defender](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/437_ENG.png)
 

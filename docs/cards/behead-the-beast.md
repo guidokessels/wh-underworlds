@@ -2,9 +2,11 @@
 title: Behead the Beast - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Behead the Beast
 
 ![Behead the Beast](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/204_ENG.png)
 

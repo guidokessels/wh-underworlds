@@ -2,9 +2,11 @@
 title: Precise Use of Force - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Precise Use of Force
 
 ![Precise Use of Force](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/284_ENG.png)
 

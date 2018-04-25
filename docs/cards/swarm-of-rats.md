@@ -2,9 +2,11 @@
 title: Swarm of Rats - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Swarm of Rats
 
 ![Swarm of Rats](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/172_ENG.png)
 

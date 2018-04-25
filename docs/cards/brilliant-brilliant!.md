@@ -2,9 +2,11 @@
 title: Brilliant, Brilliant! - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Brilliant, Brilliant!
 
 ![Brilliant, Brilliant!](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/147_ENG.png)
 

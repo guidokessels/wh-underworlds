@@ -2,9 +2,11 @@
 title: Curious Inversion - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Curious Inversion
 
 ![Curious Inversion](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/313_ENG.png)
 

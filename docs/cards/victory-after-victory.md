@@ -2,9 +2,11 @@
 title: Victory After Victory - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Victory After Victory
 
 ![Victory After Victory](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/306_ENG.png)
 

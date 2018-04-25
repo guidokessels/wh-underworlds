@@ -2,9 +2,11 @@
 title: Overcharged Boltstorm Pistol - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Overcharged Boltstorm Pistol
 
 ![Overcharged Boltstorm Pistol](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/228_ENG.png)
 

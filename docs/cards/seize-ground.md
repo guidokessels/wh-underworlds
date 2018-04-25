@@ -2,9 +2,11 @@
 title: Seize Ground - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Seize Ground
 
 ![Seize Ground](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/036_ENG-Seize-Ground.png)
 

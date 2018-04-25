@@ -2,9 +2,11 @@
 title: Perfect Planning - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Perfect Planning
 
 ![Perfect Planning](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/280_ENG.png)
 

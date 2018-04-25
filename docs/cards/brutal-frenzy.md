@@ -2,9 +2,11 @@
 title: Brutal Frenzy - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Brutal Frenzy
 
 ![Brutal Frenzy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/109_ENG-Brutal-Frenzy.png)
 

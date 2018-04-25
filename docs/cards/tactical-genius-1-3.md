@@ -2,9 +2,11 @@
 title: Tactical Genius 1-3 - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Tactical Genius 1-3
 
 ![Tactical Genius 1-3](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/294_ENG.png)
 

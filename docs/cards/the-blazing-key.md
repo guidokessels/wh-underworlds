@@ -2,9 +2,11 @@
 title: The Blazing Key - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# The Blazing Key
 
 ![The Blazing Key](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/425_ENG.png)
 

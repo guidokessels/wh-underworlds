@@ -2,9 +2,11 @@
 title: Draw the Gaze of Khorne - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Draw the Gaze of Khorne
 
 ![Draw the Gaze of Khorne](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/004_ENG-Draw-the-Gaze-of-Khorne.png)
 

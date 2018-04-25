@@ -2,9 +2,11 @@
 title: Confused Priorities - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Confused Priorities
 
 ![Confused Priorities](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/310_ENG.png)
 

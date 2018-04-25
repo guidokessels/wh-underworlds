@@ -2,9 +2,11 @@
 title: Leadin' By Example - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Leadin' By Example
 
 ![Leadin' By Example](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/103_ENG-Leadin-By-Example.png)
 

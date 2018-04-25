@@ -2,9 +2,11 @@
 title: Focused Attack - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Focused Attack
 
 ![Focused Attack](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/082_ENG-Focused-Attack.png)
 

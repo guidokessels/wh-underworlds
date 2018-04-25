@@ -2,9 +2,11 @@
 title: Brute Strength - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Brute Strength
 
 ![Brute Strength](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/137_ENG.png)
 

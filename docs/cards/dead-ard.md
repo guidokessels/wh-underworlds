@@ -2,9 +2,11 @@
 title: Dead 'Ard - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Dead 'Ard
 
 ![Dead 'Ard](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/112_ENG-Dead-Ard.png)
 

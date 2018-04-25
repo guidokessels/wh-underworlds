@@ -2,9 +2,11 @@
 title: Remembered Shield - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Remembered Shield
 
 ![Remembered Shield](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/086_ENG-Lethal-Lunge.png)
 

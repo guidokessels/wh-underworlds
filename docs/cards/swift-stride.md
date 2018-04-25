@@ -2,9 +2,11 @@
 title: Swift Stride - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Swift Stride
 
 ![Swift Stride](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/231_ENG.png)
 

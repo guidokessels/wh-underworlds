@@ -2,9 +2,11 @@
 title: The Earth Shakes - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# The Earth Shakes
 
 ![The Earth Shakes](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/132_ENG.png)
 

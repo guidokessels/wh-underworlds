@@ -2,9 +2,11 @@
 title: Geared for War - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Geared for War
 
 ![Geared for War](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/260_ENG-Geared-for-War.png)
 

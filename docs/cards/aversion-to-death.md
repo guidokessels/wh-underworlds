@@ -2,9 +2,11 @@
 title: Aversion to Death - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Aversion to Death
 
 ![Aversion to Death](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/155_ENG.png)
 

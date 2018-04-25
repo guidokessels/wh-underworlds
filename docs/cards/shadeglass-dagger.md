@@ -2,9 +2,11 @@
 title: Shadeglass Dagger - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Shadeglass Dagger
 
 ![Shadeglass Dagger](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/410_ENG.png)
 

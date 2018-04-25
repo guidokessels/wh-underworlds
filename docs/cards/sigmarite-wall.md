@@ -2,9 +2,11 @@
 title: Sigmarite Wall - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Sigmarite Wall
 
 ![Sigmarite Wall](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/042_ENG-Sigmarite-Wall.png)
 

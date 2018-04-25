@@ -2,9 +2,11 @@
 title: Masterstroke - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Masterstroke
 
 ![Masterstroke](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/273_ENG.png)
 

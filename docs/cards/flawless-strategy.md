@@ -2,9 +2,11 @@
 title: Flawless Strategy - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Flawless Strategy
 
 ![Flawless Strategy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/259_ENG-Flawless-Strategy.png)
 

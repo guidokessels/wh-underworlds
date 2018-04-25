@@ -2,9 +2,11 @@
 title: Get Da Boss - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Get Da Boss
 
 ![Get Da Boss](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/093_ENG-Get-Da-Boss.png)
 

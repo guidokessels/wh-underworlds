@@ -2,9 +2,11 @@
 title: Dark Darts - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Dark Darts
 
 ![Dark Darts](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/383_ENG.png)
 

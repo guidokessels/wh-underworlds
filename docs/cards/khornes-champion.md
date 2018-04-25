@@ -2,9 +2,11 @@
 title: Khorne's Champion - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Khorne's Champion
 
 ![Khorne's Champion](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/007_ENG-Khornes-Champion.png)
 

@@ -2,9 +2,11 @@
 title: Hold Objective 2 - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Hold Objective 2
 
 ![Hold Objective 2](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/264_ENG-Hold-Objective-2.png)
 

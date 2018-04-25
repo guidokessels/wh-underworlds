@@ -2,9 +2,11 @@
 title: Peal of Thunder - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Peal of Thunder
 
 ![Peal of Thunder](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/040_ENG-Peal-of-Thunder.png)
 

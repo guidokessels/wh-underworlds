@@ -2,9 +2,11 @@
 title: Sigmar's Bulwark - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Sigmar's Bulwark
 
 ![Sigmar's Bulwark](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/037_ENG-Sigmars-Bulwark.png)
 

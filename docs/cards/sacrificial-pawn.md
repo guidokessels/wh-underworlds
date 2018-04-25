@@ -2,9 +2,11 @@
 title: Sacrificial Pawn - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Sacrificial Pawn
 
 ![Sacrificial Pawn](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/352_ENG.png)
 

@@ -2,9 +2,11 @@
 title: Rebirth in Blood - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Rebirth in Blood
 
 ![Rebirth in Blood](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/018_ENG-Rebirth-in-Blood.png)
 

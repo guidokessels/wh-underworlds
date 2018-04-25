@@ -2,9 +2,11 @@
 title: Eternal Supremacy - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Eternal Supremacy
 
 ![Eternal Supremacy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/207_ENG.png)
 

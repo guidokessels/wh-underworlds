@@ -2,9 +2,11 @@
 title: Bane of Champions - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Bane of Champions
 
 ![Bane of Champions](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/176_ENG.png)
 

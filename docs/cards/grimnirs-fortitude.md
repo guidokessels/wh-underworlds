@@ -2,9 +2,11 @@
 title: Grimnir's Fortitude - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Grimnir's Fortitude
 
 ![Grimnir's Fortitude](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/142_ENG.png)
 

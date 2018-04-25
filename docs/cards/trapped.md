@@ -2,9 +2,11 @@
 title: Trapped - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Trapped
 
 ![Trapped](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/301_ENG.png)
 

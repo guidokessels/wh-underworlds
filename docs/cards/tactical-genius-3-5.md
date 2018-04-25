@@ -2,9 +2,11 @@
 title: Tactical Genius 3-5 - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Tactical Genius 3-5
 
 ![Tactical Genius 3-5](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/295_ENG.png)
 

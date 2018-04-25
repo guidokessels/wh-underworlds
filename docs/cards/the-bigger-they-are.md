@@ -2,9 +2,11 @@
 title: The Bigger They Are - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# The Bigger They Are
 
 ![The Bigger They Are](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/298_ENG.png)
 

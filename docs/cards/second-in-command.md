@@ -2,9 +2,11 @@
 title: Second-in-command - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Second-in-command
 
 ![Second-in-command](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/408_ENG.png)
 

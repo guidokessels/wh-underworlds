@@ -2,9 +2,11 @@
 title: To the Victor, the Spoils - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# To the Victor, the Spoils
 
 ![To the Victor, the Spoils](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/193_ENG.png)
 

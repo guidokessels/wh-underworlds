@@ -2,9 +2,11 @@
 title: Lethal Lunge - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Lethal Lunge
 
 ![Lethal Lunge](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/085_ENG-Lethal-Lunge.png)
 

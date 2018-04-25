@@ -2,9 +2,11 @@
 title: Light Armour - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Light Armour
 
 ![Light Armour](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/403_ENG.png)
 

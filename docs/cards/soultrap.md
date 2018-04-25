@@ -2,9 +2,11 @@
 title: Soultrap - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Soultrap
 
 ![Soultrap](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/420_ENG-Soultrap.png)
 

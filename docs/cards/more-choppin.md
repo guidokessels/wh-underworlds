@@ -2,9 +2,11 @@
 title: More Choppin' - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# More Choppin'
 
 ![More Choppin'](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/104_ENG-More-Choppin.png)
 

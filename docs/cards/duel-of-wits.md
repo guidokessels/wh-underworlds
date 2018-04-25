@@ -2,9 +2,11 @@
 title: Duel of Wits - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Duel of Wits
 
 ![Duel of Wits](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/320_ENG-Duel-of-Wits.png)
 

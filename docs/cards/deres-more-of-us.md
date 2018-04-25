@@ -2,9 +2,11 @@
 title: Dere's More of Us - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Dere's More of Us
 
 ![Dere's More of Us](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/092_ENG-Deres-More-of-Us.png)
 

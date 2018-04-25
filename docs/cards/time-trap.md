@@ -2,9 +2,11 @@
 title: Time Trap - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Time Trap
 
 ![Time Trap](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/368_ENG-Time-Trap.png)
 

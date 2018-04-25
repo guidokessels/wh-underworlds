@@ -2,9 +2,11 @@
 title: Ranger Strike - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Ranger Strike
 
 ![Ranger Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/211_ENG.png)
 

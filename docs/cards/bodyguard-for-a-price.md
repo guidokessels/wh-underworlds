@@ -2,9 +2,11 @@
 title: Bodyguard for a Price - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Bodyguard for a Price
 
 ![Bodyguard for a Price](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/166_ENG.png)
 

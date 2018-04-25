@@ -2,9 +2,11 @@
 title: Defiant Strike - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Defiant Strike
 
 ![Defiant Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/138_ENG.png)
 

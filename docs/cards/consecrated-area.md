@@ -2,9 +2,11 @@
 title: Consecrated Area - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Consecrated Area
 
 ![Consecrated Area](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/032_ENG-Consecrated-Area.png)
 

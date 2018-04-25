@@ -2,9 +2,11 @@
 title: Shadeglass Hammer - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Shadeglass Hammer
 
 ![Shadeglass Hammer](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/412_ENG.png)
 

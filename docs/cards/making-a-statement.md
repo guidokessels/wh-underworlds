@@ -2,9 +2,11 @@
 title: Making a Statement - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Making a Statement
 
 ![Making a Statement](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/270_ENG.png)
 

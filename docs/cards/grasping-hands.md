@@ -2,9 +2,11 @@
 title: Grasping Hands - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Grasping Hands
 
 ![Grasping Hands](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/072_ENG-Grasping-Hands.png)
 

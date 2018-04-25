@@ -2,9 +2,11 @@
 title: Covering Fire - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Covering Fire
 
 ![Covering Fire](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/224_ENG.png)
 

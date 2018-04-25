@@ -2,9 +2,11 @@
 title: Treasure-lust - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Treasure-lust
 
 ![Treasure-lust](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/133_ENG.png)
 

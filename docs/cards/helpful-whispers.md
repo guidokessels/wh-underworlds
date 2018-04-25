@@ -2,9 +2,11 @@
 title: Helpful Whispers - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Helpful Whispers
 
 ![Helpful Whispers](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/393_ENG-Helpful-Whispers.png)
 

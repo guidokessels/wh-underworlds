@@ -2,9 +2,11 @@
 title: Firm Footing - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Firm Footing
 
 ![Firm Footing](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/214_ENG.png)
 

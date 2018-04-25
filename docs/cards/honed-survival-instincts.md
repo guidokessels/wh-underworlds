@@ -2,9 +2,11 @@
 title: Honed Survival Instincts - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Honed Survival Instincts
 
 ![Honed Survival Instincts](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/149_ENG.png)
 

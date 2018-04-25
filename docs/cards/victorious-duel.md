@@ -2,9 +2,11 @@
 title: Victorious Duel - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Victorious Duel
 
 ![Victorious Duel](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/305_ENG-Victorious-Duel.png)
 

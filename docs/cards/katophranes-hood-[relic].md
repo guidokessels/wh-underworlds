@@ -2,9 +2,11 @@
 title: Katophrane's Hood [Relic] - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Katophrane's Hood [Relic]
 
 ![Katophrane's Hood [Relic]](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/399_ENG.png)
 

@@ -2,9 +2,11 @@
 title: Concealed Weapon - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Concealed Weapon
 
 ![Concealed Weapon](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/378_ENG.png)
 

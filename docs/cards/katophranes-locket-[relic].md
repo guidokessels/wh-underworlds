@@ -2,9 +2,11 @@
 title: Katophrane's Locket [Relic] - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Katophrane's Locket [Relic]
 
 ![Katophrane's Locket [Relic]](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/400_ENG.png)
 

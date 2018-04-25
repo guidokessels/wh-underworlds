@@ -2,9 +2,11 @@
 title: Slaying Blow - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Slaying Blow
 
 ![Slaying Blow](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/131_ENG.png)
 

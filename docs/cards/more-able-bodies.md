@@ -2,9 +2,11 @@
 title: More Able Bodies - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# More Able Bodies
 
 ![More Able Bodies](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/063_ENG-More-Able-Bodies.png)
 

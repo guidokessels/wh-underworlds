@@ -2,9 +2,11 @@
 title: Whirling Halberd - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Whirling Halberd
 
 ![Whirling Halberd](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/174_ENG.png)
 

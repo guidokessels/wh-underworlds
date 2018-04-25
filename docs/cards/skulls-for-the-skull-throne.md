@@ -2,9 +2,11 @@
 title: Skulls for the Skull Throne! - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Skulls for the Skull Throne!
 
 ![Skulls for the Skull Throne!](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/019_ENG-Skulls-for-the-Skull-Throne.png)
 

@@ -2,9 +2,11 @@
 title: Khorne Sees Us - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Khorne Sees Us
 
 ![Khorne Sees Us](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/178_ENG.png)
 

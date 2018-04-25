@@ -2,9 +2,11 @@
 title: Too Dumb to Die - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Too Dumb to Die
 
 ![Too Dumb to Die](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/096_ENG-Too-Dumb-to-Die.png)
 

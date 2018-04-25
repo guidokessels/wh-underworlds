@@ -2,9 +2,11 @@
 title: Blessed Armour - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Blessed Armour
 
 ![Blessed Armour](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/377_ENG-Blessed-Armour.png)
 

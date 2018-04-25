@@ -2,9 +2,11 @@
 title: Heroic Might - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Heroic Might
 
 ![Heroic Might](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/053_ENG-Heroic-Might.png)
 

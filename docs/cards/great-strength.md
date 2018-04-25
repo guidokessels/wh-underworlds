@@ -2,9 +2,11 @@
 title: Great Strength - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Great Strength
 
 ![Great Strength](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/391_ENG-Great-Strength.png)
 

@@ -2,9 +2,11 @@
 title: A Grim Promise - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# A Grim Promise
 
 ![A Grim Promise](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/118_ENG.png)
 

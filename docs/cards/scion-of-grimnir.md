@@ -2,9 +2,11 @@
 title: Scion of Grimnir - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Scion of Grimnir
 
 ![Scion of Grimnir](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/124_ENG.png)
 

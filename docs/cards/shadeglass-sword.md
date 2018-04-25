@@ -2,9 +2,11 @@
 title: Shadeglass Sword - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Shadeglass Sword
 
 ![Shadeglass Sword](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/414_ENG-Shadeglass-Sword.png)
 

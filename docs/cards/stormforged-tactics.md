@@ -2,9 +2,11 @@
 title: Stormforged Tactics - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Stormforged Tactics
 
 ![Stormforged Tactics](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/044_ENG-Stormforged-Tactics.png)
 

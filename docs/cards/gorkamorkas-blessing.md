@@ -2,9 +2,11 @@
 title: Gorkamorka's Blessing - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Gorkamorka's Blessing
 
 ![Gorkamorka's Blessing](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/100_ENG-Gorkamorkas-Blessing.png)
 

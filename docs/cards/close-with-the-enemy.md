@@ -2,9 +2,11 @@
 title: Close with the Enemy - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Close with the Enemy
 
 ![Close with the Enemy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/206_ENG.png)
 

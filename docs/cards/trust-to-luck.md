@@ -2,9 +2,11 @@
 title: Trust to Luck - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Trust to Luck
 
 ![Trust to Luck](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/371_ENG-Trust-to-Luck.png)
 

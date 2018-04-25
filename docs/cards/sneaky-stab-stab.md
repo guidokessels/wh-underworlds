@@ -2,9 +2,11 @@
 title: Sneaky Stab-stab - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Sneaky Stab-stab
 
 ![Sneaky Stab-stab](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/171_ENG.png)
 

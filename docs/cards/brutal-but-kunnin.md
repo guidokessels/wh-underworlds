@@ -2,9 +2,11 @@
 title: Brutal But Kunnin' - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Brutal But Kunnin'
 
 ![Brutal But Kunnin'](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/098_ENG-Brutal-But-Kunnin.png)
 

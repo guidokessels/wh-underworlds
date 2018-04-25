@@ -2,9 +2,11 @@
 title: Invisible Walls - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Invisible Walls
 
 ![Invisible Walls](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/335_ENG.png)
 

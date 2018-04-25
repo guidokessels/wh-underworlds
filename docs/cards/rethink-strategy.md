@@ -2,9 +2,11 @@
 title: Rethink Strategy - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Rethink Strategy
 
 ![Rethink Strategy](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/351_ENG.png)
 

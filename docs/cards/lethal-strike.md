@@ -2,9 +2,11 @@
 title: Lethal Strike - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Lethal Strike
 
 ![Lethal Strike](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/338_ENG.png)
 

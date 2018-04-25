@@ -2,9 +2,11 @@
 title: Trickster's Charm - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Trickster's Charm
 
 ![Trickster's Charm](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/432_ENG.png)
 

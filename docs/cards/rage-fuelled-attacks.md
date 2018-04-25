@@ -2,9 +2,11 @@
 title: Rage-fuelled Attacks - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Rage-fuelled Attacks
 
 ![Rage-fuelled Attacks](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/199_ENG.png)
 

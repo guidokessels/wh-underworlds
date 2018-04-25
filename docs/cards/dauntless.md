@@ -2,9 +2,11 @@
 title: Dauntless - Warhammer: Underworlds Companion
 ---
 
-# [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
+### [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
+
+# Dauntless
 
 ![Dauntless](https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/251_ENG.png)
 
