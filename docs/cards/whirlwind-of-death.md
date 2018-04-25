@@ -1,3 +1,7 @@
+---
+title: Whirlwind of Death - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

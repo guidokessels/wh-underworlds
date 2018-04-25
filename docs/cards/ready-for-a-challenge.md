@@ -1,3 +1,7 @@
+---
+title: Ready for a Challenge - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

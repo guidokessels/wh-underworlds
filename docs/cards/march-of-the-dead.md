@@ -1,3 +1,7 @@
+---
+title: March of the Dead - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

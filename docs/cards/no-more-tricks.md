@@ -1,3 +1,7 @@
+---
+title: No More Tricks - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

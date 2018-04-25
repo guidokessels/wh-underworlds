@@ -1,3 +1,7 @@
+---
+title: Master of War - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

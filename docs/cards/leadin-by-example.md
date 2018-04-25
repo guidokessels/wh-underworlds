@@ -1,3 +1,7 @@
+---
+title: Leadin' By Example - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

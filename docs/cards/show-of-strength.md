@@ -1,3 +1,7 @@
+---
+title: Show of Strength - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

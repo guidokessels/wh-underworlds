@@ -1,3 +1,7 @@
+---
+title: Leading from the Back - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

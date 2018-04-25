@@ -1,3 +1,7 @@
+---
+title: All the Better to Slay Them - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

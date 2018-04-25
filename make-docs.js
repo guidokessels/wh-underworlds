@@ -1,20 +1,29 @@
 const fs = require('fs');
 const URL = 'https://guidokessels.github.io/wh-underworlds';
+const TITLE = 'Warhammer: Underworlds Companion';
 
 const readJSONFile = filename => {
   const contents = fs.readFileSync(__dirname + '/' + filename);
   return JSON.parse(contents);
 };
 
-const nameSort = ({name: a}, {name: b}) => {
+const nameSort = ({ name: a }, { name: b }) => {
   if (a > b) return 1;
   if (b > a) return -1;
   return 0;
 };
 
 const makeHeader = () => {
-  return `# [Warhammer: Underworlds Companion](${URL})
+  return `# [${TITLE}](${URL})
 `;
+};
+
+const addFrontMatter = ({title = ''}, md) => {
+  return `---
+title: ${title} - ${TITLE}
+---
+
+${md}`;
 };
 
 const addHeader = md => {
@@ -48,10 +57,10 @@ const createCardLink = card => `[${card.name}](${URL}/cards/${makeLink(card.name
 const createLocationLink = location => `[${location}](${URL}${'/locations/' + makeLink(location)})`;
 const createFactionLink = faction => `[${faction}](${URL}${'/factions/' + makeLink(faction)})`;
 
-const createCardText = (str) => {
+const createCardText = str => {
   const weaponRegexp = /\[Weapon\](.*)\[\/Weapon\]/g;
   return str.replace(weaponRegexp, `<div class="whu-weapon">$1</div><br />`);
-}
+};
 
 const createCard = item => ({
   item,
@@ -129,12 +138,12 @@ let home = `## Browse by set
 
 cards.map(createCard).forEach(({ item, md }) => {
   const filename = `cards/${makeMdFilename(item.name)}`;
-  writeMdFile(filename, addHeader(md));
+  writeMdFile(filename, addFrontMatter({ title: item.name }, addHeader(md)));
 });
 
 locations.map(l => createLocation(l, cards)).forEach(({ item, md }) => {
   const filename = `locations/${makeMdFilename(item)}`;
-  writeMdFile(filename, addHeader(md));
+  writeMdFile(filename, addFrontMatter({ title: item }, addHeader(md)));
 
   home = `${home}
   - ${createLocationLink(item)}`;
@@ -142,7 +151,7 @@ locations.map(l => createLocation(l, cards)).forEach(({ item, md }) => {
 
 factions.map(l => createFaction(l, cards)).forEach(({ item, md }) => {
   const filename = `factions/${makeMdFilename(item)}`;
-  writeMdFile(filename, addHeader(md));
+  writeMdFile(filename, addFrontMatter({ title: item }, addHeader(md)));
 });
 
 writeMdFile('index.md', addHeader(home));

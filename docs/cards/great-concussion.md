@@ -1,3 +1,7 @@
+---
+title: Great Concussion - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

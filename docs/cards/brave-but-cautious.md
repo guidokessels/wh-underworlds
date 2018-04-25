@@ -1,3 +1,7 @@
+---
+title: Brave but Cautious - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

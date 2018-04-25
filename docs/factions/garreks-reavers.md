@@ -1,3 +1,7 @@
+---
+title: Garrek’s Reavers - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

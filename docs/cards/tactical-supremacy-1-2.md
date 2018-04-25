@@ -1,3 +1,7 @@
+---
+title: Tactical Supremacy 1-2 - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

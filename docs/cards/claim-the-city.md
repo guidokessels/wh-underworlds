@@ -1,3 +1,7 @@
+---
+title: Claim the City - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   

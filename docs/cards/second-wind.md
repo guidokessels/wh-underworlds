@@ -1,3 +1,7 @@
+---
+title: Second Wind - Warhammer: Underworlds Companion
+---
+
 # [Warhammer: Underworlds Companion](https://guidokessels.github.io/wh-underworlds)
 
   
